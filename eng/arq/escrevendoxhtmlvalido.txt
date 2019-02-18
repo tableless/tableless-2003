@@ -1,0 +1,147 @@
+Tradução por Maurício Wolff
+
+Why use valid XHTML?
+
+I believe you all have heard about Semantics. For those who haven't,
+in a few words: A project to organize and struturize information
+that's on the web.
+
+To have all information on the web "organized" is extremelly
+important. That makes easy to get more accurate results for any search
+on the web. To make your files able to be read by machines, not only
+humans, it's very important that you write valid XHMTL. Doing this way
+you're making your website information a better resource for
+web-searching, contributting to the Semantics project and - more
+important - getting more visitors to your site.
+
+DOC who?
+Your Doctype (Document Type Definition, aka DTD) it's the first thing
+you should use in an XHTML document. It goes on the FIRST LINE of your
+file, if you want to have a valid XML. You shouldn't forget it, it's
+there to let the browser know what kind of document will be
+visualized, ok?
+
+There are 3 types:
+
+Strict: This type is used when you use 100% pure XHTML code, without
+any error. Should be written this way:
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+Transitional: This is the most used type, you use it when you're
+starting to migrate from HTML to XHTML. The syntax is:
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+Frameset: It's used when you're using frames on your site. Here it
+goes:
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+
+
+Examples:
+
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title></title>
+</head>
+<body>
+...
+</body>
+</html>
+
+
+Close ALL your tags
+Who already tried to write XML files know that it doesn't work unless
+ALL tags are closed; in HTML it's different, you can live some open
+tags and it still works.
+
+In order to have valid XHTML, you should close ALL tags:
+
+Don't forget to close the tags we already know very well: <p></p>,
+<b></b>, etc...
+
+And don't forget to close "lone" tags, so instead of write <br> you
+write <br></br>, or the simple way: <br />
+
+Someone found problems in Netscape if you don't use a space before the
+slash <br/>. So the correct form is: <br />
+
+Use lowercase letters
+Who never saw a page source wrote like this:
+
+<A HREF="http://tags.with.lowercase/" TARGET="_BLANK"> </A>
+
+A valid XHTML document must have ALL tags adn it's attributes in
+lowercase!
+
+Don't forget to "QUOTE"
+This rule is very simple. All XHTML attributes must be quoted.
+
+The NAME attribute
+The old NAME attribute was replaced by ID. If your users, clients, etc
+are using old browsers, you can - without any problem - use both
+attributes during migration:
+<img src="image.gif" id="image" name="image" />
+
+Empty attributes
+We shouldn't also forget the empty attributes, for instance:
+
+WRONG:
+<option selected>
+<frame noresize>
+<input checked>
+<input readonly>
+
+RIGHT:
+<option selected="selected">
+<frame noresize="noresize">
+<input checked="checked">
+<input readonly="readonly">
+
+And so on.
+
+Wanna a little help?
+If you're migrating from HTML to XHTML, TIDY can help you out. Tidy is
+a validation too. that also fixes HTML, and you can choose wich HTML
+version you want to validade. One of this options is XHTML.
+If you're already writing an XHTML file and want an error-free code,
+tidy can fix'em for you.
+It was innitially developed by Dave Ragget and today is an OpenSource
+project at SourceForge, coded by volunteers.
+
+Last words
+Applying all this little but fundamental things, i mean, not things,
+RULES, you'll have a pretty decent, valid XHTML, and above all, will
+contribute for a better world wide web.
+
+As it's just a basic introduction, here are some important link on the
+subject:
+
+[ LINKS ]
+
+Notes:
+To be sure that you have a valid XHTML document:
+http://validator.w3.org
+
+Tidy:
+http://tidy.sourceforge.net/
+http://www.w3.org/People/Raggett/tidy/
+
+Diego Alberto Eis
+www.atipico.com.br
+www.tableless.com.br/eyesmiles/
+diego@tableless.com.br
+
+English version by Mauricio Wolff (XHTML valid since 2002)
+www.organika.com.br
+www.organika.com.br/reboot
+tableless@organika.com.br

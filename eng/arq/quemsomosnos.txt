@@ -1,0 +1,63 @@
+Who are we ? 
+
+ Diego Eis 
+     Is a specialist in tableless, work like WebDesigner and is responsable by implementation of Atipico's sites.
+
+
+Élcio 
+
+Is a specialist in Tableless, work like WebDeveloper on Atipico, is responsable by the technology Blog <FechaTag>
+
+
+About the Site 
+
+ this site show to all interested, students or professionals that is possible an easy create a Tableless site accessible and 
+compatible with the W3C specification
+
+
+Having this on mind, that we created some examples in tableless of Big Business Sites.
+We must be clear that we aren't  cloning or copying this sites here. We are just showing how they would be if was webstandarts.
+
+What is tableless ? 
+
+Tableless is nothing more that : A method of build site without tables use, using Css, XHTML or others HTML Verson,
+ making the site under the W3C specification. 
+In a Tableless Page you will use Xhtml ( highly recommendable ) or other HTML Version to the contend, 
+leaving the Format of document to CSS file
+ ( CAscading Style Sheets),
+ separating then, the information from format of that, bringing a lot of advantages to the site, developer and client.
+
+I so much important that you know that the tables isn't abolished from this method, you will just learn how use at correct way, or,
+ if the site need to show tableds data, You need use tables. 
+
+3 Motives to have it  tableless
+           
+           Exist several motives to do a site tableless, but here goes
+           barely 3 basics motives.
+           
+           Accessibility: If you are using browsers of text or others
+           devices to visit a site whose layout was done with tables,
+           you will have a certain difficulty visualizing it.  To W3C
+           it recommends  not to  use tables for layouts of sites. 
+           You can confirm in this link: Tables for layout.   But, if
+           the user accesses a tableless site   that uses CSS for the
+           formatation, he will be able to visit the sites of
+           cellular, WebTV' s, Palm Tops, etc.  
+           
+           Efficiency: Adopting the approach Tableless, you, that
+           wrote the code of the site, will have a incredible facility
+            of  bringing up to date the site, not the content alone,
+           but also the formatation, In the  tableless sites  the
+           INFORMATION is separate from the FORMATATION, consequently
+           if  you would like to modify the content or the visual ,
+           you will reduce the time of he seeks by the code.  
+
+	Semantic:When you separe the FORMATATION from INFORMATION you organize your code,
+	you dont use the FONT, CENTER, and others tags.
+	Example:A lot of people, define the Page Title like this :
+
+	<font size="5" face="Verdana">Título</font> 
+	
+	would be better  using this : <H1>Title</H1>
+
+	MAking this your code, will be more semantic, or, a interpreter, a search engine, or a brownser to blinds will know that is a Title.

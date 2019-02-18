@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--
+	<mensagem id="">
+		<titulo></titulo>
+		<texto>
+		</texto>
+		<elcio />
+		<data>//</data>
+	</mensagem>
+-->
+<blog>
+<!--
+	<mensagem id="115">
+		<titulo>Aniversário e Ano Novo</titulo>
+		<texto>
+			Oba, oba, oba!! Antes de falar das novidades, gostaríamos de dar um [b]Feliz Ano Novo[/b] para vocês, que acompanharam e visitaram o Tableless neste seu primeiro ano.[br /]
+			Hoje o [a href="http://www.tableless.com.br/"]Tableless[/a] faz 2 anos de vida. Um ano se passou, muita coisa foi aprendida e compartilhada, algumas vezes, até aprendendo com os erros ("Link Fished"), mas tudo, no final, valeu a pena.[br /]
+			Mas vamos falar do que virá... Estamos preparando uma série de novidades para 2004! Como vocês podem ver, o site mudou de visual, e isso vai além... Uma das novidades é que o usuário poderá mudar a cor e a estrutura do site. Vamos colocar uma busca. Tutoriais passo a passo compõe a parte de "[a href="http://www.tableless.com.br/estudo.asp"]estudo[/a]" do site, que aliás já existem 3. Cada site tableless de exemplo do site, colocamos um arquivo ZIP, para facilitar o download do site de exemplo para ser estudado. A parte de [a href="http://www.tableless.com.br/links.asp"]links[/a] também será modificada. Foras os novos [a href="http://www.tableless.com.br/artigos.asp"]artigos[/a], sites transformados em tableless, e outras novidades que vocês podem conferir neste blog.[br /]
+			É isso aí galera! Esperamos que vocês gostem das novidades e continuem nos ajudando a aprender mais! Feliz Ano Novo!
+		</texto>
+		<diego/>
+		<data>01/01/2004</data>
+	</mensagem>-->
+	<mensagem id="114">
+		<titulo>Foto Digital</titulo>
+		<texto>
+			Câmera digital é muito, muito legal! Poder ver o resultado na hora, não se preocupar com o custo do filme, ter a foto já em formato digital, tudo muito bom. Mas as vezes faz falta o velho álbum de fotografias, ou o porta-retratos em cima da mesa... Acabamos de colocar no ar: [a href="http://www.fotolab.com.br/" title="Fotolab - revelação digital, fotografia, câmera digital, banco de imagens"]Fotolab Online[/a], você envia o JPG e recebe em sua casa as imagens em papel fotográfico.
+		</texto>
+		<elcio/>
+		<data>12/24/2003</data>
+	</mensagem>
+<!--
+	<mensagem id="114">
+		<titulo>Internet Explorer</titulo>
+		<texto>
+			Há quem diga que esse papo de [a href="http://www.tableless.com.br"]Tableless[/a] e padrões só interesse a quem usa Opera e Mozilla. Então tá, embora eu ache Opera e Mozilla excelentes escolhas, lá vai: [a href="http://www.internetexplorer.not.br" title="Internet Explorer - Downloads, Dicas, Fórum, Atualizações, Service Pack"]Internet Explorer[/a], excelente trabalho do [a href="http://www.tableless.com.br/eyesmiles"]Diego[/a] em cima do não menos excelente trabalho do [a href="http://www.wess.com.br/daniel/"]Daniel Monteiro[/a] (por enquanto, só a home).
+		</texto>
+		<elcio/>
+		<data>12/24/2003</data>
+		<comentario nome="Bruno Cunha Torres" email="bruno@brunotorres.net" url="">N&amp;#227;o entendi esse post. N&amp;#227;o era pra ser tableless? Esses sites s&amp;#227;o cheios de tabelas definindo o layout e um deles, o do diego, nem doctype tem. Sinceramente, nao entendi, me expliquem, por favor</comentario><comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Eu acho que o Daniel ainda n&amp;#227;o colocou a vers&amp;#227;o tableless no ar como o esperado!</comentario><comentario nome="Bruno" email="bruno@brunotorres.net" url="">Desculpe, falei besteira, o q nao tem doctype &amp;#233; o do Daniel Monteiro. Mas nenhum deles realmente &amp;#233; tableless.....vamos aguardar.</comentario><comentario nome="Daniel" email="daniel@wess.com.br" url="www.wess.com.br/daniel">N&amp;#227;o mais ser&amp;#225; Bruno tableless, continuar&amp;#225; sendo  cheios de tabelas definindo o layout. Continuo aguardando um contato da At&amp;#237;pico ok Diego ?</comentario><comentario nome="Slider Devils" email="revoltaware@viavale.com.br" url="">Site feito no Fireworks eh fogo... a n&amp;#227;o ser que algu&amp;#233;m tenha criatividade num ambiente de dominio nao usar /imagens/ para as imagens e usar o spacer.gif  ou um layout_r8_c2.jpg como imagem...
+
+Agora sobre o t&amp;#243;pico, se vc tirar o &amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;iso-8859-1&amp;quot;?&amp;gt; o IE6 fica at&amp;#233; um bom renderizador de CSS, se bem que eu fa&amp;#231;o minhas pages com isso e elas funcionam igual no Mozilla, Opera e IE.</comentario><comentario nome="Daniel" email="daniel@wess.com.br" url="www.internetexplorer.not.br">
+Bruno, por v&amp;#225;rias vezes tento entrar em contato com algu&amp;#233;m da At&amp;#237;pico e at&amp;#233; o momento, nenhum retorno.
+Espero um contato de voc&amp;#234;s at&amp;#233; o dia 5 ap&amp;#243;s isso, desconsidere. </comentario><comentario nome="Daniel" email="daniel@wess.com.br" url="www.internetexplorer.not.br">O que ainda me impressiona &amp;#233; o fato de haver homens que n&amp;#227;o honram a cueca que usam e utilizam a internet para atacarem e se esconderem. Mas vou te dar uma chance de reverter sua imagem viu Slider Devils.
+Meu telefone &amp;#233; 98317787. me ligue e agendarei uma visita pra voc&amp;#234;, combinado ?</comentario><comentario nome="Thiago" email="thicolares@yahoo.com.br" url="">&amp;#202; huahuaha vai rolar porrada.
+T&amp;#244; brincando.
+&amp;#201; o seguinte, tamb&amp;#233;m esperei algo tableless. Ficou legal o design... mas eu esparava q fosse tableless... 
+lament&amp;#225;vel... :) abra&amp;#231;os</comentario><comentario nome="Thiago" email="thicolares@yahoo.com.br" url="">&amp;lt;b&amp;gt;aceita tags!?&amp;lt;/b&amp;gt;</comentario></mensagem>-->
+	<mensagem id="113">
+		<titulo>Código do Tableless na MacMania</titulo>
+		<texto>
+			Algumas pessoas que viram nosso artigo na [a href="http://www.macmania.com.br"]MacMania[/a] de dezembro, o segundo da série, pediram uma cópia do código usado no exemplo. Pois não: [a href="http://www.tableless.com.br/macmania.zip"]macmania.zip[/a] (10,5KB).
+		</texto>
+		<elcio/>
+		<data>12/15/2003</data>
+	</mensagem>
+	<mensagem id="112">
+		<titulo>Robô Atípico</titulo>
+		<texto>
+			[a href="http://www.atipico.com.br/google/"]Descubra como o Google vê seu site[/a]
+		</texto>
+		<elcio/>
+		<data>12/11/2003</data>
+		<comentario nome="Thiago" email="" url="">Muito &amp;quot;b&amp;#227;o&amp;quot; o segundo artigo de voc&amp;#234;s na MacMania, gostei bastante.
+Agora, me digam um coisa: a At&amp;#237;pico est&amp;#225; pagando aquele an&amp;#250;ncio ou voc&amp;#234;s ganharam espa&amp;#231;o por causa dos artigos?
+A prop&amp;#243;sito, se quiserem que eu scaneie as p&amp;#225;ginas, d&amp;#234; um reply. :o)</comentario><comentario nome="Pedro" email="pedro_ze@yahoo.com" url="">Uau, que legal esse &amp;quot;googlebot view&amp;quot;. Muito interressante e esse link para o LynxView, tamb&amp;#233;m &amp;#233; estupendo! S&amp;#243; comprova como sites com frames s&amp;#227;o invi&amp;#225;veis.</comentario><comentario nome="Rodrigo Le&amp;#227;o Brasileiro" email="rodrigoleao@globo.com" url="">Este rob&amp;#244; &amp;#233; uma preciosidade! Cara, entrei ontem pela primeira vez neste site e s&amp;#243; agora vejo o quanto o planejamento no desenvolvimento de sites pode ajudar,  muito, o sucesso que este ter&amp;#225; daqui pra frente! Se voc&amp;#234; olhar para uma empresa de desenvolvimento a&amp;#237; do seu lado, ver&amp;#225; que ela est&amp;#225; pouco se lichando para asp&amp;#233;ctos t&amp;#227;o relevantes como CSS, Tableless e XHTML.</comentario><comentario nome="Jonathas Scott" email="logan@echoes4ever.com" url="www.echoes4ever.com">fla galera do tableless gracas a essas e outras ferramentas eunconsegui colocar em 1&amp;#186; lugar o meu site. !!! valeu !!</comentario></mensagem>
+	<mensagem id="111">
+		<titulo>Dicas preciosas</titulo>
+		<texto>
+			[a href="http://www.communitymx.com/content/article.cfm?cid=A43B828960590F55"]Writing Efficient CSS[/a]
+		</texto>
+		<elcio/>
+		<data>12/09/2003</data>
+		<comentario nome="Andre Marcanth" email="" url="">Essas dicas s&amp;#227;o precios&amp;#237;ssimas. Muito obrigado, Elcio! :) </comentario></mensagem>
+	<mensagem id="110">
+		<titulo>Wiki ArqHP</titulo>
+		<texto>
+			Conheça e participe do [a href="http://elcio.locaweb.com.br/ws/wiki.asp"]Wiki da ArqHP[/a].[br /] Vamos colaborar para que o Wiki cresça... Isso é útil para todos...
+		</texto>
+		<diego/>
+		<data>12/05/2003</data>
+		<comentario nome="Pedro" email="" url="">Diego eu me perco nesse wiki. Ser&amp;#225; que rola um artigo explicando como funciona?</comentario><comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Visita este endere&amp;#231;o
+http://elcio.locaweb.com.br/ws/wiki.asp?page=Wiki
+Este pequeno texto explica.</comentario><comentario nome="Pedro" email="" url="">Valeu, Diego. S&amp;#243; estranhei de in&amp;#237;cio essa livre permiss&amp;#227;o para alterar os dados. Isso n&amp;#227;o &amp;#233; perigoso se algum engra&amp;#231;adinho quiser fazer gra&amp;#231;a?</comentario><comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">pois &amp;#233;.
+Wiki &amp;#233; isso a&amp;#237;... Todos tem liberdade para compartilhar seus conhecimentos. Sempre aparecem estes engra&amp;#231;adinhos... mas a comunidade d&amp;#225; um jeito de arrumar o estrago.</comentario></mensagem>
+	<mensagem id="109">
+		<titulo>Bugs do IE</titulo>
+		<texto>
+			Este site é muito interessante para estudo pois mostra alguns dos BUGS que acontecem no IE.[br /] Ótimo estudo para quem está começando ou mesmo para aqueles mais experientes.[br /]
+			[a href="http://www.positioniseverything.net/explorer.html"]Explorer Exposed![/a][br /]
+			Link ¿ [a href="http://www.topica.com/lists/arqhp"]ArqHP[/a]
+		</texto>
+		<diego/>
+		<data>12/04/2003</data>
+		<comentario nome="FallenHawk" email="fallenhawk@revoltaware.com" url="">Ontem mesmo fui tentar um escrever um menu simples vertical em listas e... o IE SEMPRE deixa um pequeno offset entre um item e outro!
+
+IE n&amp;#227;o tem jeito mesmo.</comentario></mensagem>
+	<mensagem id="108">
+		<titulo>Annamaron.com.br</titulo>
+		<texto>
+			[a href="http://annamaron.com.br/"]Annamaron.com.br[/a], redesign tableless do [a href="http://www.crisdias.com/weblog/index.php?p=10306119&amp;c=1"]Cris Dias[/a]. Excelente trabalho. Ficou inclusive ainda mais bonito que o anterior.
+		</texto>
+		<elcio/>
+		<data>12/03/2003</data>
+	</mensagem>
+	<mensagem id="107">
+		<titulo>Novidade no ar</titulo>
+		<texto>
+			Versão nova do [a href="http://www.fotolab.com.br" title="Fotolab, fotografia, revelação digital, loja, câmera digital, banco de imagens"]Fotolab[/a] e do [a href="http://www.ranur.com" title="Ranur - Logística, transporte, agenciamento de cargas, importação e exportação"]Ranur[/a]. Os dois com novo design e convertidos para layout CSS Tableless.
+		</texto>
+		<elcio/>
+		<data>11/26/2003</data>
+		<comentario nome="M16" email="mtgomes@bol.com.br" url="www.m16.kit.net">Sou programador em ActionScript e obviamente mando umas coisas d webdesign, sen&amp;#227;o morro d fome.
+ 
+Estou pesquisando sobre tableless faz alguns dias e quero saber d uma coisa q n achei em nenhum lugar escrito em portugues...
+ 
+Para fazer tableless tenho q escrever os c&amp;#243;digos na m&amp;#227;o? N&amp;#227;o tem um editor tableless WYSIWYG? Pq c tiver q programar tudo na m&amp;#227;o, &amp;#233; o mesmo q andar p tr&amp;#225;s.
+
+Obrigado</comentario><comentario nome="Pedr&amp;#227;o" email="" url="">N&amp;#227;o existe um editor visual melhor do que o TopStyle 3.1. Ele &amp;#233; um editor de CSS e gera um preview daquilo que vc est&amp;#225; criando. N&amp;#227;o &amp;#233; o supra-sumo, mas &amp;#233; o mais pr&amp;#243;ximo disso. :-)</comentario><comentario nome="M16" email="mtgomes@bol.com.br" url="www.m16.kit.net">Para fazer CSS esse programa (TopStyle 3.1) &amp;#233; melhor q o Dreamweaver? Pq o Dreamweaver faz CSS, mas n sei c eh dos melhores...</comentario><comentario nome="Pedr&amp;#227;o" email="" url="">Eu uso os dois. Um completa o outro, pq eu tenho o DW MX, mas a vers&amp;#227;o do DW MX 2004 &amp;#233; bem melhor para CSS.</comentario></mensagem>
+	<mensagem id="106">
+		<titulo>Quem tem medo?</titulo>
+		<texto>
+			Artigo inédito no Webinsider: [a href="http://webinsider.uol.com.br/vernoticia.php?id=1974"]Tableless e o medo de mexer com padrões web[/a]. Mande para o seu chefe e para aquele seu colega...
+		</texto>
+		<elcio/>
+		<data>11/20/2003</data>
+		<comentario nome="Rafael" email="" url="">Mais um tableless bonito: http://www.destroydrop.com/
+Belo trabalho!</comentario><comentario nome="Rafa" email="neo.com@gmx.net" url="www.thecure.com.br">Um dos meus desafios para 2004 ser&amp;#225; come&amp;#231;ar a usar esse novo metodo!!! se posso chamar assim...</comentario><comentario nome="FallenHawk" email="fallenhawk@revoltaware.com" url="nwn.revoltaware.com">Quando eu descobrir como se faz tableless 100% width em qualquer resolu&amp;#231;&amp;#227;o posso come&amp;#231;ar a tentar usar.
+N&amp;#227;o gosto muito de sites restritos a alguma resolu&amp;#231;&amp;#227;o.</comentario><comentario nome="Elcio Ferreira" email="elciof@icqmail.com" url="elcio.locaweb.com.br">Abra a KB&amp;#231;a:
+http://www.tableless.com.br/estudo/fluid/</comentario><comentario nome="spiceee" email="spam@spiceee.com" url="pensaletes.spiceee.com">eu tamb&amp;#233;m passei pelo doloroso processo de me livrar desse v&amp;#237;cio de tds e trs.
+
+mas, depois de uma semana limpo, posso falar que me sinto muito melhor!
+
+o c&amp;#233;u est&amp;#225; mais azul, as flores t&amp;#234;m mais cheiro e recobrei minha vontade de viver!
+</comentario></mensagem>
+	<mensagem id="105">
+		<titulo>MacMania</titulo>
+		<texto>
+			A revista [a href="http://www.macmania.com.br"]MacMania[/a] publicou esse mês nosso artigo sobre simplicidade. Nos próximos meses vão sair um pequeno tutorial da coisa e um estudo de caso. Confira.
+		</texto>
+		<elcio/>
+		<data>11/16/2003</data>
+	</mensagem>
+	<mensagem id="104">
+		<titulo>Parto difícil</titulo>
+		<texto>
+			Preparem-se. O webdesign brasileiro está para sofrer um sério abalo em suas estruturas. [a href="http://www.ana.beskow.nom.br/index.php?p=334&amp;c=1"]Vem coisa boa![/a]
+		</texto>
+		<elcio/>
+		<data>11/11/2003</data>
+	</mensagem>
+	<mensagem id="103">
+		<titulo>Webinsider</titulo>
+		<texto>
+			O Webinsider republicou hoje meu artigo sobre [a href="http://webinsider.uol.com.br/vernoticia.php?id=1961"]HTML, CSS e Simplicidade[/a] e em breve vai sair lá um artigo inédito.
+		</texto>
+		<elcio/>
+		<data>11/10/2003</data>
+		<comentario nome="Denis" email="denisds@yahoo.com" url="">Ola, eu acho legal a iniciativa de nao usar tables para formatar a pagina, e investigando o codigo eu vejo que vcs usam muito o DIV. talvez ate ja falaram nisto, mas como eu so conheci o site hj, pelo Webinsider, alguem pode comentar sobre a vantagem do DIV sobre os TABLE, TD, TR, etc..? no caso de carregar a pagina, nao precisa esperar o ultimo DIV?
+abra&amp;#231;os e parabens, tambem sou a favor das paginas leves, simples e informativas!</comentario><comentario nome="Marcos Cordeiro" email="marcos@cartello.com.br" url="www.ilexmaster.kit.net">Tabeless &amp;#233; o futuro? Preciso aprender mais.
+Parab&amp;#233;ns.</comentario><comentario nome="Rafael" email="" url="">Ah&amp;#225;.
+Impress&amp;#227;o minha ou este artigo &amp;#233; id&amp;#234;ntico ao que saiu na MacMania este
+m&amp;#234;s? Hein, hein?
+Ah, o neg&amp;#243;cio do problema em internet baking com o Java Virtual Machine &amp;#233;
+com o site da Caixa, n&amp;#233;? No Mac, n&amp;#227;o sei no Linux, o update para o Java
+1.4.2, se n&amp;#227;o me engano, conserta isso e permite o acesso.
+Parab&amp;#233;ns a voc&amp;#234;s!</comentario><comentario nome="Elcio" email="elciof@icqmail.com" url="elcio.locaweb.com.br">Quase igual.
+Na MacMania, nos pr&amp;#243;ximos dois meses, v&amp;#227;o sair dois artigos in&amp;#233;ditos. Vale a pena conferir.
+Quanto ao Internet Banking, n&amp;#227;o &amp;#233; s&amp;#243; o da Caixa que cria caso com navegadores ou sistemas operacionais estranhos. Bradesco, Ita&amp;#250; e Banco do Brasil, entre os que eu conhe&amp;#231;o, tem esse tipo de complicador.</comentario></mensagem>
+	<mensagem id="102">
+		<titulo>Wiki da ArqHP</titulo>
+		<texto>
+			[a href="http://elcio.locaweb.com.br/ws/"]Wiki ArqHP[/a], colabore você também.
+		</texto>
+		<elcio/>
+		<data>11/10/2003</data>
+	</mensagem>
+	<mensagem id="101">
+		<titulo>Mozilla.org.br</titulo>
+		<texto>
+			O site brasileiro do Mozilla está de casa nova: [a href="http://www.mozilla.org.br"]www.mozilla.org.br[/a]
+		</texto>
+		<elcio/>
+		<data>11/10/2003</data>
+		<comentario nome="Kosh" email="" url="">http://www.mozilla.org/
+&amp;#233; tableless tb....</comentario></mensagem>
+	<mensagem id="100">
+		<titulo>Centésimo post!</titulo>
+		<texto>
+			Parabéns galera! Este é o centésimo post do Tableless! Eu estou achando pouco... O Tableless está com quase 1 ano e só temos 100 posts! Mas isso vai mudar... E não é só isso... Estou aproveitando que este é o centésimo post para falar sobre algumas novidades que estamos armando para o ano de 2004.[br /]
+			Tutoriais passo - a - passo, busca no site, mais artigos, e algumas outras coisas mais! Ahh, e vamos também colocar mais sites como exemplo![br /]
+			Esperem algumas boas mudanças e novidades no layout do site![br /]
+			Dicas, sugestões e idéias serão bem vindas.
+		</texto>
+		<diego/>
+		<data>11/07/2003</data>
+		<comentario nome="Thiago Luis" email="mrprompt@mrprompt.com" url="www.mrprompt.com/">realmente, estou achando o site uma &amp;#243;tima fonte de informa&amp;#231;&amp;#227;o sobre padroniza&amp;#231;&amp;#227;o web e afins, estou estudando muito e em breve pretendo tornar n&amp;#227;o somente o meu site pessoal, mas os sites de meus clientes tableless tamb&amp;#233;m...
+Enquanto isso, aguardo ansioso pelas mudan&amp;#231;as previstas...</comentario><comentario nome="Assun&amp;#231;&amp;#227;o jr." email="ass.jr@ig.com.br" url="www.ileitor.com.br/">Tableless pra mim t&amp;#225; sendo um ponto de mudan&amp;#231;a extraordin&amp;#225;rio.
+No inicio mudei apenas o topo do meu site - pois achei meio complicado usar tableless, mas depois mudei quase 80% a parte administrativa do meu site, agora t&amp;#244; querendo mudar 100% o meu site e dos meus clientes, pois a inova&amp;#231;&amp;#227;o e a velocidade que consigo s&amp;#227;o enormes.
+parab&amp;#233;ns pela &amp;#243;tima fonte de estudo que &amp;#233; o tableless.com.br.</comentario></mensagem>
+	<mensagem id="99">
+		<titulo>A Microsoft Esqueceu</titulo>
+		<texto>
+			[a href="http://www.marloscarmo.com/lis_blogcomments.php?code=40"]Microsoft se esquece de renovar domínio do Hotmail[/a]
+		</texto>
+		<elcio/>
+		<data>11/07/2003</data>
+		<comentario nome="Vinicius Coltri" email="vcoltri@uol.com.br" url="">Esse link est&amp;#225; certo?
+aqui deu erro...</comentario><comentario nome="Elcio" email="elciof@icqmail.com" url="elcio.locaweb.com.br">Aqui funciona.</comentario></mensagem>
+	<mensagem id="98">
+		<titulo>Fog Creek</titulo>
+		<texto>
+			[a href="http://www.fogcreek.com/"]Fog Creek[/a], do Joel Spolsky, virou Tableless. Ótimo trabalho do Dave Shea (aquele, do [a href="http://www.csszengarden.com"]jardim[/a], você sabe...)
+		</texto>
+		<elcio/>
+		<data>11/03/2003</data>
+	</mensagem>
+	<mensagem id="97">
+		<titulo>Depois da Macromedia</titulo>
+		<texto>
+			Agora é a vez da Adobe mostrar a que veio: [a href="http://studio.adobe.com/"]Adobe Studio[/a] virou tableless.
+		</texto>
+		<elcio/>
+		<data>11/02/2003</data>
+		<comentario nome="Cristiano" email="cdias@cptec.inpe.br" url="">Estou impressionado. Sempre achei muito complicado trabalhar com tabelas pra construir um layout. Depois que visitei esse blog comecei a fazer testes com tableless e estou super satisfeito. Tabelas nunca mais. Muito obrigado.</comentario><comentario nome="Diego Alberto Eis" email="" url="www.tableless.com.br/eyesmiles/">Obrigado pela visita e pelas observa&amp;#231;&amp;#245;es Cristiano. Estamos preparando uma s&amp;#233;rie de novidades para o ano que vem... Acho que todos ir&amp;#227;o gostar.</comentario><comentario nome="Leandro" email="chesternet@uol.com.br" url="">O Dremweaver MX 2004 tem suporte &amp;#224; tableless?
+
+Tem alguma forma de criar layouts usando tableless sem ser na m&amp;#227;o?</comentario></mensagem>
+	<mensagem id="96">
+		<titulo>Coding for Easy Redesign</titulo>
+		<texto>
+			"As designers, we're trained to see web pages as pure visual layouts - like print you can click. But a standards-conscious designer won't even think about how a page looks until she has first figured out its underlying structure."[br /]
+			[a href="http://www.macromedia.com/newsletters/edge/october2003/index.html?sectionIndex=1&amp;trackingid=OMN_AAJT"]Jeffrey Zeldman on Coding for Easier Redesigns[/a]
+		</texto>
+		<elcio/>
+		<data>10/29/2003</data>
+	</mensagem>
+	<mensagem id="95">
+		<titulo>Why tables for layout is stupid</titulo>
+		<texto>
+			Esta é ótima...[br /]
+			Quadrinhos que falam sobre o problema de se fazer layouts com Tables e sobre a solução para isso.[br /][a href="http://www.hotdesign.com/seybold/index.html" title="Why tables for layout is stupid"]Why tables for layout is stupid[/a][br /]
+			Link ¿ [a href="http://www.topica.com/lists/arqhp"]ArqHP[/a]
+		</texto>
+		<diego/>
+		<data>10/28/2003</data>
+		<comentario nome="Maxwel" email="maxwel@online.ie" url="">Muito bom, bem explicado e bem profissional. Seria melhor ainda se fosse em portugu&amp;#234;s pro povo daqui entender!</comentario></mensagem>
+	<mensagem id="94">
+		<titulo>Links Importantes</titulo>
+		<texto>
+			Galera,[br /]
+			Aqui vai uma dica de sites ótimos para o deleite de todos.[br /]
+			Dá para aprender um bocado de coisa... Alguns já foram postados aqui, mas nunca é demais lembrar. ;-)[br /]
+			[a href="http://css.maxdesign.com.au/index.htm"]MaxDesign[/a][br /]
+			[a href="http://www.inknoise.com/experimental/layoutomatic.php"]Layout Automatic[/a][br /]
+			[a href="http://www.copysense.co.uk/border.htm"]Css Border Test[/a][br /]
+			[a href="http://www.simplebits.com/"]SimpleBits[/a]
+			
+		</texto>
+		<diego/>
+		<data>10/23/2003</data>
+		<comentario nome="Menestrel Errante" email="" url="x-blogs.com/chaotiix">HEY,
+esse site de Border Teste valeu muito !
+Eu n&amp;#227;o conhecia metade daqueles atributos pra border !
+
+Pra quem vive fu&amp;#231;ando c&amp;#243;digo CSS fica dif&amp;#237;cil conhecer todas as possibilidades, vcs bem que podiam fazer um guia debulhando todos os atributos de cada elemento, n&amp;#227;o ?</comentario><comentario nome="Fabricio" email="fablixiu@yahoo.com.br" url="www.soumongol.kit.net">Gostei da tecnologia do tableless, e meu blog agora &amp;#233; quase 100% tableless, e tudo gra&amp;#231;as &amp;#224; este site. Parab&amp;#233;ns!</comentario><comentario nome="Thiago" email="thicolares@hotmail.com" url="">Primeiro, parab&amp;#233;ns pelo site. Eu vi o c&amp;#243;digo gerado pelo layout automatic, e ele faz umas coisas tipo ... w\idth.. pra que serve isso?</comentario></mensagem>
+	<mensagem id="93">
+		<titulo>Você tem que dar uma passada!</titulo>
+		<texto>
+			Com a volta do [a href="http://www.alistapart.com/"]ALA[/a], um artigo indispensável.[br /]
+			[a href="http://www.alistapart.com/articles/slidingdoors/"]Sliding Doors[/a]
+		</texto>
+		<diego/>
+		<data>10/23/2003</data>
+	</mensagem>
+	<mensagem id="92">
+		<titulo>Parabéns!</titulo>
+		<texto>
+			O site [a href="http://usabilidadenaweb.blogger.com.br/index.html" title="Usabilidade na Web"]Usabilidade na Web[/a] fez aniversário de 1 ano no dia 15! E eu... desligado... esqueci de postar.[br /]
+			Este site já esteve aqui no blog, ele é Tableless![br /]
+			Parabéns [a href="http://usabilidadenaweb.blogger.com.br/index.html" title="Usabilidade na Web"]Simøne[/a].
+		</texto>
+		<diego/>
+		<data>10/16/2003</data>
+		<comentario nome="Andr&amp;#233; Fernandes" email="andrevf@terra.com.br" url="">Me lembro que tinha por aqui um tutorial de como transformar um site em tableless, ser&amp;#225; que vc ainda tem ele por ai</comentario><comentario nome="Diego Alberto Eis" email="" url="www.tableless.com.br/eyesmiles/">Ser&amp;#225; que &amp;#233; este:
+http://www.tableless.com.br/tutorial/</comentario></mensagem>
+	<mensagem id="91">
+		<titulo>Falem Bem ou Falem Mal...</titulo>
+		<texto>
+			Mais um blog que eu vivo lendo citou o [a href="http://www.tableless.com.br"]Tableless[/a]:[br /]
+			[a href="http://www.ana.beskow.nom.br/index.php?p=318&amp;c=1"] "Swimming against the chains" - o perigo da tradução ao pé da letra[/a][br /]
+			O [a href="http://www.ana.beskow.nom.br/"]Patinho[/a] é um dos meus blogs prediletos, leitura obrigatória. E é tableless! Se você não conhece, vale a visita.[br /]
+			E você, se achar erros de tradução, fale mal da gente também ;-) Estamos à caça dos erros.
+		</texto>
+		<elcio/>
+		<data>16/10/2003</data>
+		<comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">&amp;quot;falem mal, mas falem de mim...&amp;quot;
+
+Digam o que disserem, esta &amp;#233; uma estrat&amp;#233;gia de Mkt 100% suicida.
+
+Em detrimento de estar em 'evid&amp;#234;ncia', o correto &amp;#233; ser coerente nas a&amp;#231;&amp;#245;es... 
+
+Como o Jonas disse: 
+ &amp;quot;... Traduzir conte&amp;#250;do em portugu&amp;#234;s para ingl&amp;#234;s s&amp;#243; &amp;#233; bom quando o conte&amp;#250;do realmente tem algo de novo, &amp;#250;nico, que possa ser interessante fora do Brasil ...&amp;quot;
+
+Este &amp;#233; o ponto...
+O tableless vem portando para o portugu&amp;#234;s o conte&amp;#250;do e as premissas de v&amp;#225;rios 'icones' mundiais que pregam o emprego da abordagem padronizada... A maioria j&amp;#225; disponibiliza 'nativamente' seus conte&amp;#250;dos em ingl&amp;#234;s.
+
+Pegar isto, depois de portado para o portugu&amp;#234;s, e (re)traduzir para o ingl&amp;#234;s &amp;#233; no m&amp;#237;nimo 'servi&amp;#231;o de portugu&amp;#234;s'.
+
+Como a vers&amp;#227;o em ingl&amp;#234;s s&amp;#243; surgiu ap&amp;#243;s a cita&amp;#231;&amp;#227;o do Tableless no site do Zeldman, o que pegou mal foi a impress&amp;#227;o de oportunismo que isto passou...
+
+take care.
+
+</comentario><comentario nome="Ana Beskow" email="ana@ana.beskow.nom.br" url="www.ana.beskow.nom.br">Ei Elcio!!
+
+Obrigada pela sua visita e pelos elogios. Eu e meu patinho de borracha agradecemos. ;)
+
+Agora, o que me deixou triste foi o t&amp;#237;tulo do seu post. Na verdade eu n&amp;#227;o falei mal de voc&amp;#234;s. Inclusive eu nem citei o nome do site porque tenho considera&amp;#231;&amp;#227;o a vcs e nunca iria falar mal do Tableless!! 
+A minha id&amp;#233;ia inicial era apena alertar para os problemas com as tradu&amp;#231;&amp;#245;es de sites como tamb&amp;#233;m levantar a quest&amp;#227;o de ser ou n&amp;#227;o v&amp;#225;lido traduzir um site para outro idioma (inclusive eram perguntas que eu estava fazendo pra mim mesma). 
+
+De qualquer jeito, achei toda aquela discuss&amp;#227;o no meu &amp;quot;patinho&amp;quot; muito v&amp;#225;lida. </comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Oi Ana, eu entendi. Estava brincando no t&amp;#237;tulo, mas infelizmente pesei mal as palavras. Sabe como &amp;#233;, a pal&amp;#225;vra escrita &amp;#224;s vezes adquire uma for&amp;#231;a extremamente radical, por que o entendimento n&amp;#227;o vem guiado pelo tom de voz e express&amp;#227;o corporal. Assim, &amp;#224;s vezes acontece de a gente escrever pensando uma coisa, e quando &amp;#233; lido aquilo vira outra.
+Pelo seu coment&amp;#225;rio e o do Caparica, eu de fato escrevi mal. N&amp;#227;o era pra ser levado a s&amp;#233;rio assim.
+N&amp;#227;o fique triste ;-)</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Oi Caparica! Voc&amp;#234; por aqui tamb&amp;#233;m? Puxa uma cadeira.
+Quer um copo d'&amp;#225;gua?
+Continue falando, que sempre vale a pena ouv&amp;#237;-lo, principalmente quando voc&amp;#234; diz coisas que n&amp;#227;o queremos ouvir.</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">A verdade &amp;#233; assim...
+pouca gente quer ouvir!</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">uops...
+foi mal, deixei a pagina aberta no opera (configurado pra dar refresh a cada 5 minutos) e sai pra comer pizza com a provável patroa.
+
+sorry. (mesmo, sem malicia!)</comentario><comentario nome="Ederson Peka" email="peka@sitedepoesias.cjb.net" url="elcio.locaweb.com.br/poesias/">35 posts x 5 minutos = 175 minutos 
+Praticamente 3 horas de pizza... :-o 
+D&amp;#225; um peda&amp;#231;o?! ;-)</comentario><comentario nome="F&amp;#225;bio Caparica de Luna" email="caparica@aranha.com.br" url="sinistras.aranha.com.br">era um rod&amp;#237;sio... :P
+
+</comentario></mensagem>
+	<mensagem id="90">
+		<titulo>Mais Tableless na InfoExame</titulo>
+		<texto>
+			[a href="http://www.tableless.com.br/infoexame.gif"]Valeu Luiz Alberto![/a]
+		</texto>
+		<elcio/>
+		<data>16/10/2003</data>
+		<comentario nome="Cassio Silva" email="cassiojps@yahoo.com.br" url="cassiojps.brinkster.net/porto">Eu inclusive passei a visitar este blog a partir da informa&amp;#231;&amp;#227;o na Revista. E gostei bastante. Estou estudando o assunto, tentando aprender e montar um layout para mim usando o conceito.</comentario></mensagem>
+	<mensagem id="89">
+		<titulo>Congratulations!</titulo>
+		<texto>
+			Opa, esqueci de uma coisa importante...[br /]
+			Gostaria de agradecer aos voluntários responsáveis pela tradução da [a href="http://www.tableless.com.br/eng/"]versão em inglês[/a] do Tableless.[br /]
+			Agradeço ao: Cláudio F. Barbosa, Leonardo Prado, Vinícius Ficagna, João Faissal, Mauricio Wolff, Jefferson De Almeida Teixeira, Thiago Rigonatti.
+		</texto>
+		<diego/>
+		<data>10/16/2003</data>
+	</mensagem>
+	<mensagem id="88">
+		<titulo>English Version!</titulo>
+		<texto>
+			Ae galera...[br /]
+			Estamos colocando no ar hoje a versão em [a href="/eng/"]inglês do Tableless[/a]... Gostaria de pedir para os blogueiros de plantão para que possam nos ajudar na divulgação.[br /]
+			Se acharem erros, ou alguma coisa parecida, não deixem de nos [a href="mailto:tableless@tableless.com.br"]falar[/a].
+		</texto>
+		<diego/>
+		<data>10/13/2003</data>
+		<comentario nome="Andr&amp;#233; Marcanth" email="" url="">Muito bom! No entanto, tenho algumas d&amp;#250;vidas... seria poss&amp;#237;vel colocar as datas em ingl&amp;#234;s para o formato em Ingl&amp;#234;s? Uma curiosidade.... Acho que seria melhor evitar o uso de acentos em Ingl&amp;#234;s, pois eles confundem com ap&amp;#243;strofe (foi por isso que nos arrancaram fora o acento de Petrobr&amp;#225;s, ficando Petrobras). Outra d&amp;#250;vida &amp;#233; quanto ao termo: &amp;quot;Link fished from&amp;quot;. Se usa? Eu n&amp;#227;o sei, s&amp;#243; estou perguntando.</comentario><comentario nome="Menestrel Errante" email="" url="www.x-blogs.com/chaotiix">Eu vou al&amp;#233;m, o acentos devem ficar em nomes de pessoas, mas no caso de &amp;quot;M&amp;#233;xico&amp;quot;, a&amp;#237; realmente t&amp;#225; errado.
+		Mas no geral est&amp;#225; bom, embora express&amp;#245;es em portugu&amp;#234;s traduzidas ao p&amp;#233; da letra podem ser perigosas.</comentario><comentario nome="Marcelo" email="celo@lab.org" url="colecorp.blogger.com.br">ae. vi q tah rolando umas mudan&amp;#231;as interessante do XHTML 1.0 pra o XHTML 2.0 ex.: dah extin&amp;#231;&amp;#227;o da tag &amp;lt;br /&amp;gt; pela &amp;lt;l&amp;gt;&amp;lt;/l&amp;gt; e &amp;lt;img&amp;gt; por &amp;lt;object&amp;gt; eu to doido ou eh isso mesmo? seria interessante vcs postarem uma materia sobre as mudan&amp;#231;as...</comentario><comentario nome="Rafael" email="flashlista@yahoo.com.br" url="">Ao inv&amp;#233;s de colocar &amp;quot;comment this&amp;quot;, acho que &amp;quot;comment&amp;quot; somente ficaria melhor.
+Ah e link fished &amp;#233; foda hein? Tente algo como &amp;quot;found in&amp;quot; ou &amp;quot;source:&amp;quot;.</comentario><comentario nome="Rafael" email="" url="">Me esqueci de uma coisa. A data com &amp;quot;23 of December of 2003&amp;quot; n&amp;#227;o &amp;#233; usado e nem apropriado. Ao inv&amp;#233;s tente o modelo &amp;quot;Month Day, Year&amp;quot;, ex: December 23, 2003.</comentario><comentario nome="Diego Alberto Eis" email="" url="www.tableless.com.br/eyesmiles/">Obrigado pelos coment&amp;#225;rios e cr&amp;#237;ticas... J&amp;#225; demos um jeito nos pontos que voc&amp;#234;s falaram! 
+E continuem ajudando por favor...</comentario><comentario nome="Ana Beskow" email="ana@ana.beskow.nom.br" url="www.ana.beskow.nom.br">Posso sugerir uma coisa pro link fished (que foi substitu&amp;#237;do por  Link found in ArqHp &amp;gt; Zeldman)? 
+
+Use apenas &amp;quot;(via: ArqHP&amp;gt;Zeldman). &amp;#201; a forma correta de referenciar um link.
+
+Algumas outras coisas &amp;quot;gritaram&amp;quot; aos meus olhos, como o &amp;quot;good looking site&amp;quot;  (bastaria apenas &amp;quot;great site&amp;quot;, pois good looking &amp;#233; usado para pessoas e n&amp;#227;o pra coisas). 
+
+A coisa &amp;#233; muito complicada, Diego. Criar conte&amp;#250;do em ingl&amp;#234;s a gente tem que estar &amp;quot;pensando&amp;quot; em ingl&amp;#234;s e n&amp;#227;o traduzindo frases para o ingl&amp;#234;s.
+
+Espero de alguma forma ter ajudado (mesmo com aquela confus&amp;#227;o toda no meu &amp;quot;patinho&amp;quot;). </comentario><comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Ajudou sim!
+Tamb&amp;#233;m achei muito legal a discuss&amp;#227;o l&amp;#225; no seu patinho...
+Continue visitando! :-)</comentario></mensagem>
+	<mensagem id="87">
+		<titulo>CNet News</titulo>
+		<texto>
+		Viraram Tableless o mês passado:[br /]
+		[a href="http://news.com.com/"]CNet News[/a][br /]
+		Mais um grande site, com muito conteúdo, fazendo um ótimo trabalho ao migrar.
+		</texto>
+		<elcio/>
+		<data>10/10/2003</data>
+		<comentario nome="Andr&amp;#233; Marcanth" email="" url="">Deve ser interessnate, mas o site, que leva ao link news.com.com, &amp;#233; conhecido por fazer uso de spywares, assim como muitos outros, como no caso dos sites de cassino online cujas janelas popup abrem-se sem que solicitemos. Quando menos esperamos, z&amp;#225;s... vemos uma janela dessas...</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Eu n&amp;#227;o tenho esse tipo de problema. Uso Opera ;-)</comentario></mensagem>
+	<mensagem id="86">
+		<titulo>Curso de Web Standards</titulo>
+		<texto>
+		Pronto, você já pode parar de escrever pedindo! Montamos um curso para que você aprenda a criar layouts tableless e muito mais. [a href="http://www.tableless.com.br/curso.asp"]Saiba mais[/a].
+		</texto>
+		<elcio/>
+		<data>10/08/2003</data>
+		<comentario nome="Pedr&amp;#227;o" email="zelele@jedimania.com.br" url="">Mandei e-mail perguntando os pre&amp;#231;os e nenhuma resposta em 24 hs... :-(</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Ei, ainda n&amp;#227;o fazem 24 horas que eu recebi seu e-mail. E j&amp;#225; foi respondido. ;-)</comentario><comentario nome="Pedr&amp;#227;o" email="zelele@jedimania.com.br" url="">Obrigado por suas respostas!
+:-)</comentario></mensagem>
+	<mensagem id="85">
+		<titulo>BrowserCam!</titulo>
+		<texto>
+		Como fazer para testar um site no IE 5.2 do Mac não tendo um Mac?[br /]
+		A resposta está [a href="http://www.browsercam.com/"]aqui[/a]. No [a href="http://www.browsercam.com/"]BrowserCam[/a] você pode tirar shots de vários navegadores nos diversos sistemas operacionais. É lógico, tem que pagar... mas você pode fazer um login "trial" que dura 7 horas.[br /]
+	</texto>
+		<diego/>
+		<data>10/06/2003</data>
+		<comentario nome="mariano" email="gott@uberbin.nett" url="uberbin.net">joder.. lo hubiera precisado justo ayer ;)
+
+Buen site :)</comentario><comentario nome="Andr&amp;#233; Marcanth" email="" url="">Hola, Mariano! No soy moderador ni tampoco quisiera censurarte, pero por lo menos, podrias moderar un bocadito una cierta palabra, no? Gracias! :))</comentario><comentario nome="Edull" email="" url="www.edull.com.br">Este site &amp;#233; muito bom. Meu site ainda tem muita coisa &amp;quot;sobrando&amp;quot;, quero limp&amp;#225;-lo e pretendo conseguir logo!
+Voc&amp;#234;s est&amp;#227;o de parab&amp;#233;ns.</comentario></mensagem>
+	<mensagem id="84">
+		<titulo>Rollover Rápido</titulo>
+		<texto>
+			O truque é criar uma única imagem para ser o background e movê-la no rollover.[br /]
+			Genial, não precisa de preload e funciona bem em tudo quanto é browser:[br /]
+			[a href="http://www.pixy.cz/blogg/clanky/cssnopreloadrollovers/"]www.pixy.cz/blogg/clanky/cssnopreloadrollovers[/a]
+		</texto>
+		<elcio/>
+		<data>29/09/2003</data>
+		<comentario nome="Menestrel Errante" email="" url="x-blogs.com/chaotiix">A-ha, belo truque !</comentario><comentario nome="Andr&amp;#233; Marcanth" email="" url="">Realmente, &amp;#233; um truque e tanto. Tem muita l&amp;#243;gica a id&amp;#233;ia de reposicionar a imagem, j&amp;#225; que com o CSS existe essa op&amp;#231;&amp;#227;o!</comentario><comentario nome="Renato Augusto Vi&amp;#231;o Elias" email="tandernet@ig.com.br" url="">Nossa demais, melhor sistema de rollover que ja vi, nao precisa de preload, s&amp;#227;o poucos linhas, muito interessante!</comentario><comentario nome="Henrique" email="" url="">o problema &amp;#233; que o link est&amp;#225; quebrado :/</comentario><comentario nome="Murilo" email="murilocorrea@hotmail.com" url="">N&amp;#227;o querendo ser repetitivo, mas j&amp;#225; sendo... o link t&amp;#225; quebrado. :/</comentario><comentario nome="Menestrel Errante" email="" url="www.x-blogs.com/chaotiix">O link n&amp;#227;o est&amp;#225; quebrado.</comentario></mensagem>
+	<mensagem id="83">
+		<titulo>Style Master</titulo>
+		<texto>
+			Para quem vive procurando um bom editor de css, aqui vai uma dica:
+			[a href="http://www.westciv.com/style_master/index.html"]Style Master[/a].[br /]
+			Dei uma olhada por cima nele. Pude notar que ele é ótimo para quem está começando com css. Ele tem um tipo ajuda que diz a compatibilidade dos elementos, dá a descrição, valores possíveis, entre outras coisas.[br /]
+			Eu sugiro que você faça o [a href="http://www.westciv.com/style_master/download/index.html"]download[/a] nem que seja somente para testar.[br /]
+			pescado do [a href="http://www.zeldman.com/"]Zeldman[/a]
+		</texto>
+		<diego/>
+		<data>29/09/2003</data>
+		<comentario nome="Z&amp;#233;lel&amp;#233;_in_Space" email="" url="">Eu instalei esse soft e achei que ele &amp;#233; bom como demo mesmo, mas n&amp;#227;o custa pagar para adquir&amp;#237;-lo. Interface pobre e n&amp;#227;o tem templates.</comentario><comentario nome="Andr&amp;#233; Marcanth" email="" url="">Bem, &amp;#233; sempre mais uma ferramenta... Achei interessante, mas eu gosto mais de softwares open source... (apenas uma opini&amp;#227;o pessoal)</comentario><comentario nome="Marcelo" email="" url="colecorp.blogger.com.br">vo dah uma avaliada.. atualmente uso o topstyle 3, 1ps page 2000, Html Bealty, e recentemente descobri u HTML-Kit todos muito bons os ultimos 3 saum OpenSource o primeiro eu uso  crackeado mas vale a penas :D pois possui um recurso interessante q eh de comletar a TAGS antes de terminad de digitalas, e na hora de por as classe ele mostra a lista de parementros.. e se aprende muito com esse recurso.</comentario><comentario nome="Murilo" email="murilocorrea@hotmail.com" url="">Eu uso o TopStyle 3 e &amp;#233; muito bom. Recomendo! 
+Como o meu hobby &amp;#233; testar programas, vou ver esse da&amp;#237;. Volto a postar quando tiver algum coment&amp;#225;rio sobre ele.</comentario><comentario nome="Andr&amp;#233; Marcanth" email="" url="">Algu&amp;#233;m conhece o JEdit? Serve para qualquer coisa, html, css, php... &amp;#201; feito em Java, open source, funciona no Windows no Linux e em qualquer sistema! Muito interessante!</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br">Acho o JEdit meio pesado no meu modesto P3 600.</comentario></mensagem>
+	<mensagem id="82">
+		<titulo>Tradução! Precisamos de ajuda.</titulo>
+		<texto>
+		Galera,[br /]
+		Vou direto ao assunto... Precisamos de voluntários para traduzir para o inglês alguns posts e artigos do Tableless. Pretendemos fazer uma versão em inglês do site.[br /]
+		Por favor, se você quer nos ajudar, entre em [a href="mailto:tableless@tableless.com.br" title="Contato Tableless"]contato[/a] conosco.
+	</texto>
+		<diego/>
+		<data>24/09/2003</data>
+		<comentario nome="paulo" email="" url="">eu sugiro fazer tradu&amp;#231;&amp;#245;es pra esperanto ;)
+</comentario></mensagem>
+	<mensagem id="81">
+		<titulo>México também faz tableless!</titulo>
+		<texto>
+		[a href="http://www.monolinea.com"]http://www.monolinea.com[/a][br /]
+		Site tableless e com ótima aparência! Portifólio da mexicana Kemie Quaida.
+	</texto>
+		<diego/>
+		<data>09/23/2003</data>
+	</mensagem>
+	<mensagem id="80">
+		<titulo>Fazer menu CSS automático!</titulo>
+		<texto>
+			[a href="http://www.accessify.com/tools-and-wizards/list-o-matic/list-o-matic.asp"]List - o - matic[/a][br /]
+			Neste link você pode gerar automáticamente menus CSS horizontais ou verticais baseados em &lt;ul&gt;. [br /]Link pescado da [a href="http://www.topica.com/lists/arqhp"]ArqHp[/a] &gt; [a href="http://www.zeldman.com/"]Zeldman[/a]
+		</texto>
+		<diego/>
+		<data>09/21/2003</data>
+		<comentario nome="Andr&amp;#233; Marcanth" email="marcanth2001@yahoo.com" url="">Muito interessante... No entanto, a gente fica meio preso aos &amp;quot;temas&amp;quot; deles, mas acho muito interessante...</comentario><comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Ficamos nada.... &amp;#201; s&amp;#243; editar o css u&amp;#233;...</comentario><comentario nome="Andr&amp;#233; Marcanth" email="marcanth2001@yahoo.com" url="">Concordo, mas quem busca um menu destes prontinho, deve ser porque n&amp;#227;o quer programar, ou n&amp;#227;o sabe programar ou, ainda, tem muita pressa. Eu gostei da id&amp;#233;ia, &amp;#233; &amp;#250;til se eu tiver pressa e esses temas servirem, mas prefiro fazer na m&amp;#227;o, a princ&amp;#237;pio.</comentario></mensagem>
+	<mensagem id="79">
+		<titulo>Mais sites tableless!</titulo>
+		<texto>
+			Estou vendo que o pessoal está botando para quebrar. O Renato Feijó é um que está dando o exemplo.[br /]
+			[a href="http://www.danielfrank.ch/"]http://www.danielfrank.ch/[/a][br /]
+			[a href="http://www.eltango.ch/"]http://www.eltango.ch/[/a]
+		</texto>
+		<diego/>
+		<data>09/18/2003</data>
+		<comentario nome="obrigat&amp;#243;rio" email="" url="">hei.. jakob se escreve com 'k' (!)</comentario><comentario nome="tatix" email="t4tix@terra.com.br" url="www.tatix.org">Parabens Diego e Elcio...vcs est&amp;#227;o no site do Zeldman =)</comentario><comentario nome="Diego" email="diegoeis@bol.com.br" url="www.tableless.com.br/eyesmiles/">Nossa! Que legal... muito legal mesmo!! hehehehe
+Valeu pela boa not&amp;#237;cia Tatix.</comentario></mensagem>
+	<mensagem id="78">
+		<titulo>Tableless pode salvar sua conta da Telefônica</titulo>
+		<texto>
+			Webinsider: [a href="http://webinsider.uol.com.br/vernoticia.php?id=1881"]O novo Speedy,  a usabilidade e o tableless[/a]
+		</texto>
+		<elcio/>
+		<data>09/16/2003</data>
+	</mensagem>
+	<mensagem id="77">
+		<titulo>Mais Tableless Nacional</titulo>
+		<texto>
+			[a href="http://www.acquire.com.br/"]Acquire[/a], bonito, ótimo trabalho do Michel Bottan.
+		</texto>
+		<elcio/>
+		<data>09/13/2003</data>
+		<comentario nome="celo" email="celo@lab.org" url="colecorp.blogger.com.br">Qusl eh mesmo o forum de discurs&amp;#227;o de vcs?</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elciio.locaweb.com.br/">N&amp;#227;o temos nenhum f&amp;#243;rum, mas se voc&amp;#234; quer encontrar os melhores profissionais no assunto entre na lista: http://www.topica.com/lists/arqhp (n&amp;#227;o &amp;#233; nossa).</comentario><comentario nome="Maxwel" email="maxwel@online.ie" url="">Pessoal pq vcs n&amp;#227;o criam um grupo no http://br.groups.yahoo.com/ seria um barato.</comentario><comentario nome="Andre Marcanth" email="marcanth2001@yahoo.com" url="">Seria muito bom mesmo que voc&amp;#234;s criassem um grupo no Yahoo. O nome at&amp;#233; poderia ser tableless@yahoogrupos.com.br</comentario><comentario nome="Alexandre Junqueira" email="alexandre@junqueira.trix.net" url="www.ilearn.com.br">Isso! Um grupo!</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Calma pessoal. Eu j&amp;#225; assino mais listas do que consigo acompanhar, ter que administrar uma seria sobre-humano agora.
+A lista que eu indiquei a&amp;#237; acima, a arqHP, &amp;#233; muito, muito boa mesmo. N&amp;#227;o h&amp;#225; necessidade de criar outra.</comentario><comentario nome="Diego" email="diegoeis@bol.com.br" url="www.tableless.com.br/eyesmiles/">Mas quem sabe um dia! :-)</comentario></mensagem>
+	<mensagem id="76">
+		<titulo>iLearn Tableless</titulo>
+		<texto>
+			Mais um Tableless bacana, senhoras e senhores, e desta vez nacional! A [a href="http://www.ilearn.com.br/"]iLearn[/a], escola de tecnologia carioca, está oferecendo um curso de Tableless, e aproveitou o ensejo para lançar seu site Tableless. Ótimo trabalho.
+		</texto>
+		<elcio/>
+		<data>09/10/2003</data>
+	</mensagem>
+	<mensagem id="75">
+		<titulo>O Style Switcher do Motoqueiro</titulo>
+		<texto>
+			O Diógenes, do [a href="http://www.sabadonaestrada.com.br" ]Sábado na Estrada[/a], mandou pra gente um ótimo tutorial ensinando a construir um style switcher: [a href="http://www.tableless.com.br/switcher.asp"]Trocando o Layout de seu Site de Forma Dinâmica[/a].
+		</texto>
+		<elcio/>
+		<data>09/09/2003</data>
+	</mensagem>
+	<mensagem id="74">
+		<titulo>Andy Budd</titulo>
+		<texto>
+			Hoje o Andy Budd, da [a href="http://www.message.uk.com/"]Message Digital Design[/a], me escreveu. Foi assim que eu fiquei conhecendo o [a href="http://www.andybudd.com/blog/"]blog[/a] dele. Tableless, sobre WebStandards, muito bom!
+		</texto>
+		<elcio/>
+		<data>09/07/2003</data>
+		<comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Eu acho que &amp;#233; o blog tableless mais bonito que eu j&amp;#225; vi.</comentario></mensagem>
+	<mensagem id="73">
+		<titulo>Jeans Lee</titulo>
+		<texto>
+			Mais uma dica do Sr. [a href="http://www.zeldman.com/"]Zeldman[/a]:[br /]
+			[a href="http://www.onetruefit.com/"]www.onetruefit.com[/a], XHTML 1.0 tableless de encher os olhos. Há também um [a href="http://www.fivesevensix.com/studies/onetruefit/"]estudo de caso[/a] no ar, pra quem quiser conferir.
+		</texto>
+		<elcio/>
+		<data>09/04/2003</data>
+		<comentario nome="nome" email="email@asd.asd" url="url">&amp;#233; impressionante a separa&amp;#231;&amp;#227;o entre estrutura e dados (?style=false)</comentario></mensagem>
+	<mensagem id="72">
+		<titulo>Pra quem está começando</titulo>
+		<texto>
+			[a href="http://www.7nights.com/dkrprod/gwt_eight.php"]Webstandards
+			FAQ[/a], de D. Keith Robinson, muito bom. 
+		</texto>
+		<elcio/>
+		<data>08/28/2003</data>
+	</mensagem>
+	<mensagem id="71">
+		<titulo>Muito Obrigado!</titulo>
+		<texto>
+			É com muito orgulho que eu informo que nós ultrapassamos a faixa de 10000 visitas, e isso não seria possível sem a sua colaboração.[br /]
+			Nós agradecemos grandemente a todos os visitantes, que desde o começo demonstraram bastante interesse sobre o assunto.[br /]
+			Esperamos que este site esteja sendo de alguma forma útil para você.[br /]
+			Um abraço Standard para todos.
+		</texto>
+		<diego/>
+		<data>08/27/2003</data>
+		<comentario nome="Ot&amp;#225;vio" email="" url="teivan.blogspot.com">Voc&amp;#234;s est&amp;#227;o fazendo um &amp;#243;timo trabalho. Merecem cada visita que o site teve.
+
+[ ]'s
+intel+</comentario><comentario nome="Mario" email="srnmario@terra.com.br" url="www.artvision.kit.net">Sem querer puxar o saco, mas o Tableless &amp;#233; p&amp;#225;gina inicial do meu Browser.</comentario><comentario nome="Rodrigo Kono" email="rodrigokono@hotmail.com" url="www.kono.blogger.com.br">A&amp;#234;, tableless roox!
+Acessibilidade ser&amp;#225; e est&amp;#225; sendo um dos maiores temas discutidos.
+E o profissional que se preocupar nisso sair&amp;#225; na frente!
+
+Somos Tableless!</comentario><comentario nome="Tatiane Viana - tatiX" email="tatix@tatix.org" url="www.tatix.org">Parabens elcio e diego...todas essas 10000 visitas foram muito bem aproveitadas...podem ter certeza...=)</comentario></mensagem>
+	<mensagem id="70">
+		<titulo>Abrafoto</titulo>
+		<texto>
+			É com muito orgulho que anunciamos o mais novo tableless posto no ar pela [a href="http://www.atipico.com.br/" title="Atípico - Websites e aplicações internet de resultado"]Atípico[/a]: [a href="http://www.abrafoto.org/" title="Abrafoto - Associação Brasileira dos Fotógrafos de Publicidade"]Abrafoto.org[/a].[br /]
+			Site grande, com um sistema de atualização complexo, acessado por mais de 250 fotógrafos, e um bocado de conteúdo, foi um prazer e um grande privilégio trabalhar nele.[br /]
+		</texto>
+		<elcio/>
+		<data>08/26/2003</data>
+	</mensagem>
+	<mensagem id="69">
+		<titulo>Ico Cosméticos</titulo>
+		<texto>
+			A [a href="http://www.atipico.com.br/" title="Atípico - Websites e aplicações internet de resultado"]Atípico[/a] colocou no ar hoje mais um site tableless. É o site da [a href="http://www.ico-cosmeticos.com.br/" title="Ico Cosméticos - Essência de um bom negócio"]Ico Cosméticos[/a].
+			É uma empresa que cuida para que sua marca se transforme em produtos de beleza, com alta qualidade. Cuida desde a concepção do seu negócio até a entrega do produto ao seu cliente final.[br /]
+			Site feito em XHTML para a informação e CSS para a formatação.
+		</texto>
+		<diego/>
+		<data>08/26/2003</data>
+	</mensagem>
+	<mensagem id="68">
+		<titulo>Macromedia e o Eric Meyer</titulo>
+		<texto>
+		Acabei de postar sobre o novo website da Macromedia, tableless, e descobri agora um dos caras por trás desse negócio, o [a href="http://www.meyerweb.com/eric/"]Eric Meyer[/a], grande autoridade no assunto. A consultoria do Meyer, a Complex Spiral, também está de [a href="http://www.complexspiral.com/"]site novo[/a].
+		</texto>
+		<elcio/>
+		<data>08/26/2003</data>
+	</mensagem>
+	<mensagem id="67">
+		<titulo>Macromedia Tableless</titulo>
+		<texto>
+		Já vi muita gente dizendo: "Esse negócio de Tableless é muito bonito, pra sites assim, feitos por hobby. Mas pra sites sérios, comerciais, não podemos usar esse tipo de abordagem."[br /]
+		Já faz um tempo que estou postando aqui todo site tableless comercial, bonito e grande que encontro. Agora chegou um pra arrasar com qualquer argumento: [a href="http://www.macromedia.com"]o novo site da Macromedia[/a], ótimo tableless, abordagem semântica brotando da casa do Dreamweaver![br /]
+		Dica do Pablo Barros, na [a href="http://www.topica.com/lists/arqhp"]arqHP[/a]
+		</texto>
+		<elcio/>
+		<data>08/25/2003</data>
+		<comentario nome="Diego" email="" url="www.tableless.com.br/eyesmiles/">Sei que v&amp;#227;o me crucificar pela frase abaixo... mas fazer o que?
+Agora vai vir um monte de gente falando que Dreamweaver tamb&amp;#233;m faz tableless... querem apostar???</comentario><comentario nome="Andr&amp;#233; Marcanth" email="marcanth2001@yahoo.com" url="">Ol&amp;#225;, Diego!
+O Dreamweaver tem suporte para CSS, mas o c&amp;#243;digo tem que ser feito &amp;#224; m&amp;#227;o (mesmo com esse suporte). A princ&amp;#237;pio, sendo um editor WYSIWYG comercial, a primeira preocupa&amp;#231;&amp;#227;o da Macromedia, creio, &amp;#233; fazer com que qualquer coisa feita nele funcione no IE (browser com mais de 90% de mercado). Agora, algumas especifica&amp;#231;&amp;#245;es de CSS n&amp;#227;o s&amp;#227;o suportadas pelo IE, porque a M$ n&amp;#227;o segue as recomenda&amp;#231;&amp;#245;es padr&amp;#227;o do W3C.  O que voc&amp;#234; fizer no modo gr&amp;#225;fico, ter&amp;#225; resultado html e n&amp;#227;o html e CSS, embora voc&amp;#234; possa mexer no c&amp;#243;digo &amp;#224; vontade. Eu acho que se algu&amp;#233;m fizer um programa que fa&amp;#231;a isso ser&amp;#225;, muito provavelmente, distribu&amp;#237;do nos termos da GPL.
+Resumindo... Dizer que o Dreamweaver faz tableless &amp;#233; bogagem. Voc&amp;#234; &amp;#233; quem faz (se fosse assim at&amp;#233; o Notepad faria tableless)....</comentario></mensagem>
+	<mensagem id="66">
+		<titulo>No Palm</titulo>
+		<texto>
+	O [a href="http://rigonatti.cjb.net/"]Rigonatti[/a] fez alguns screenshots enquanto navegava no [a href="http://elcio.locaweb.com.br/"]FechaTag[/a], no [a href="http://www.tableless.com.br"]Tableless[/a] e no site da [a href="http://www.atipico.com.br"]Atípico[/a]. Publiquei os shots [a href="http://elcio.locaweb.com.br/palm"]aqui[/a]. A experiência de navegação foi muito boa, embora os shots não mostrem isso muito bem.
+	</texto>
+		<elcio/>
+		<data>08/24/2003</data>
+		<comentario nome="Diego Alberto Eis" email="" url="www.tableless.com.br/eyesmiles/">Me deu uma curiosidade de saber como ficariam os sites caso eles fossem estruturados com TABLES.</comentario></mensagem>
+	<mensagem id="65">
+		<titulo>Tamanho do texto em diferentes browsers</titulo>
+		<texto>
+		[a href="http://www.thenoodleincident.com/tutorials/box_lesson/font/browser.html"]Neste[/a] site mostra a diferença do tamanho dos textos em vários browsers.[br /]
+		E [a href="http://www.thenoodleincident.com/tutorials/typography/incremental_differences.html"]este[/a] vem de bonus.
+		Vale a pena dar uma olhada.
+	</texto>
+		<diego/>
+		<data>08/22/2003</data>
+	</mensagem>
+	<mensagem id="64">
+		<titulo>Os Gringos Continuam</titulo>
+		<texto>
+		Mais um tableless bonito: [a href="http://www.utsa.edu/"]www.utsa.edu[/a]
+		</texto>
+		<elcio/>
+		<data>08/21/2003</data>
+		<comentario nome="Rodrigo Bragantino" email="" url="">Ah caras, falem s&amp;#233;rio, acho legal v&amp;#225;rios sites tableless, mas dizer que esse site da Universidade do Texas &amp;#233; bonito a&amp;#237; j&amp;#225; &amp;#233; demais.</comentario><comentario nome="Diego Alberto Eis" email="diegoeis@bol.com.br" url="www.tableless.com.br/">Se o cara gostou, po... Deixa ele meu! &amp;#233; o gosto do cara... fazer o que?! :-)
+Do Texas num &amp;#233; aquelas coisas, mas &amp;#233; bunitin vai..</comentario></mensagem>
+	<mensagem id="63">
+		<titulo>Caminho Suave para o Tableless</titulo>
+		<texto>
+		Muita gente tem me escrito perguntando como começar a desenvolver nos padrões web, o que estudar primeiro, o que faz cada coisa e etc:[br /]
+		[a href="http://www.tableless.com.br/caminho.asp"]http://www.tableless.com.br/caminho.asp[/a]
+		</texto>
+		<elcio/>
+		<data>08/20/2003</data>
+		<comentario nome="Mario" email="srnmario@terra.com.br" url="www.artvision.kit.net">Caminho Suave... Isso me lembra aquela velha cartilha de alfabetiza&amp;#231;&amp;#227;o que todos passamos por ela. Muito boa por sinal, assim como esse artigo.</comentario></mensagem>
+	<mensagem id="62">
+		<titulo>Quer ver o css? É só pegar!</titulo>
+		<texto>
+		Já recebi alguns emails de pessoas nos perguntando se podiam copiar os códigos CSS dos sites de amostras. E gente, como um grupo que apoia o "movimento" Open Source proibiria este tipo de coisa?[br /]
+		Então, se você quer ver qualquer código css do site, é só pegar! Como?? Bom, usando o velho método... Escrevendo o endereço do arquivo na barra de endereço do browser! :-)[br /]
+		Vou tentar fazer alguma coisa para facilitar isto, como por exemplo, disponibilizando os arquivos dos sites em zip pro pessoal baixar. É isso galera.
+		</texto>
+		<diego/>
+		<data>08/10/2003</data>
+		<comentario nome="Mario" email="srnmario@terra.com.br" url="www.artvision.kit.net">Outra op&amp;#231;&amp;#227;o para pegar os arquivos css &amp;#233; s&amp;#243; ir na pasta de arquivos tempor&amp;#225;rio da internet!!!
+</comentario><comentario nome="Dennis" email="falecomigo@denniscs.com" url="www.denniscs.com">Tem tb aquele maravilhoso recurso de bookmarklets. Voc&amp;#234; cria um bookmark que abre um micro-editor css para ver e simular altera&amp;#231;&amp;#245;es no css da p&amp;#225;gina. &amp;#201; perfeito para isso. -&amp;gt; http://kb.reflectivesurface.com/br/artigos/sitesCom PadroesWeb/ferramentas</comentario><comentario nome="Marcelo" email="" url="">Seria interessante vcs comentarem os c0d ainda no proprio Css tem gente q ainda confunde p posicionamento do div com os paramentros do padding e margin top etc</comentario><comentario nome="Elcio" email="elcio@tableless.com.br" url="elcio.locaweb.com.br/">Dennis,
+Muito boa essa dica dos  bookmarklets! Estou estudando o assunto, talvez logo tenha novidades.</comentario></mensagem>
+	<mensagem id="61">
+		<titulo>Documentos do W3C em Português</titulo>
+		<texto>
+		[a href="http://www.w3.org/2003/03/Translations/byLanguage?language=pt-br" title="Traduções para o português de documentos W3C"]Traduções para o português de documentos W3C[/a].[br /]
+		Alguns artigos do W3C traduzidos para o português. Vale a pena conferir.
+	</texto>
+		<diego/>
+		<data>08/07/2003</data>
+	</mensagem>
+	<mensagem id="60">
+		<titulo>O Tableless tem RSS viu?!</titulo>
+		<texto>
+			 Eu acho que esquecemos de postar, mas o [a href="http://www.tableless.com.br/"]Tableless[/a] tem RSS.[br /]
+			 O endereço RSS é http://www.tableless.com.br/makerss.asp?feed=tableless
+		</texto>
+		<diego/>
+		<data>08/06/2003</data>
+	</mensagem>
+	<mensagem id="59">
+		<titulo>A informação e a formatação (parte 1)</titulo>
+		<texto>
+			 Está no ar o [a href="http://www.tableless.com.br/infoform.asp" title="Facilidade de Manutenção"]primeiro[/a] artigo falando sobre a separação entre informação e formatação. [a href="http://www.tableless.com.br/infoform.asp" title="Facilidade de Manutenção"]Este[/a] primeiro artigo trata sobre a [a href="http://www.tableless.com.br/infoform.asp" title="Facilidade de Manutenção"]Facilidade de Manutenção[/a].
+		</texto>
+		<diego/>
+		<data>08/04/2003</data>
+		<comentario nome="Marcelo" email="celo@lab.org" url="colecorp.blogger.com.br">curti a ideia do tableless.. vo me enquadrar</comentario><comentario nome="Tiago" email="kekek@terraNOSPAM.com.br" url="www.hex.com.br">P&amp;#244; logo agora que tinha aprendido a fazer tabelas na m&amp;#227;o, vem esse esquema!
+Droga! :p
+
+Muuuito loko esse esquema, curti demais, vou estudar esse esquema e tentar usar tabelas quando realmente for indispensavel</comentario></mensagem>
+	<mensagem id="58">
+		<titulo>Hp Brasil é tableless!</titulo>
+		<texto>
+			Mais um site é [a href="http://www.tableless.com.br/hpbr/"]tableless[/a]![br /] É o site da [a href="http://www.hp.com/country/br/por/welcome.html"]Hp Brasil[/a] ([a href="http://www.tableless.com.br/hpbr/"]versão tableless[/a]). Um exemplo pra gente aprender mais sobre [a href="http://www.tableless.com.br/" title="Tableless"]tableless[/a], espero que seja útil.[br /]
+			Sugestões ou críticas, nos mande um [a href="mailto:tableless@tableless.com.br"]email[/a].
+		</texto>
+		<diego/>
+		<data>07/29/2003</data>
+		<comentario nome="Elcio Ferreira" email="professorelcio@yahoo.com.br" url="elcio.locaweb.com.br/">&amp;#211;timo trabalho, Diego!
+Exatamente o mesmo visual do original com menos de 1/3 do c&amp;#243;digo!
+C&amp;#243;digo muito elegante tamb&amp;#233;m.</comentario><comentario nome="Diego Alberto Eis" email="diego@tableless.com.br" url="www.tableless.com.br/">Obrigado!
+E olha que eu nem usei Tidy. :-)</comentario><comentario nome="Deinha" email="deinha_74@hotmail.com" url="www.delli.com.br">Ol&amp;#225; Diego,
+
+Sou iniciante em TableLess, queria que voc&amp;#234; me ajudasse, quero fazer um site em TableLess com esse design: www.vogue.co.uk , &amp;#233; dificil, como come&amp;#231;o?</comentario><comentario nome="Mauricio Wolff" email="mauNOSPAM@organika.com.br" url="www.organiKa.com.br">legal! parab&amp;#233;ns pela iniciativa, achei que estava sozinho! :)
+
+se tiveres uma galeria de sites tableless, mais um pra lista: http://www.trimed.com.br
+
+ah; pra quem gosta de hacks: se a p&amp;#225;gina carrega antes do CSS, basta colocar um &amp;lt;script&amp;gt; tag vazio antes do CSS... :p</comentario><comentario nome="Andr&amp;#233; Maranth" email="marcanth2001@yahoo.com" url="">Valeu pela dica, Mauricio! Digo, colocar um script vazio... Eu tamb&amp;#233;m achei &amp;#243;timo isso de n&amp;#227;o usar tabelas e a partir de agora s&amp;#243; vou usar tabelas quando for realmente necess&amp;#225;rio, mas primeiro, quero continuar aprendendo CSS, pois gostei muito! Valeu!!</comentario><comentario nome="felipe augusto da silva" email="lipedasilva@ig.com.br" url="58818461">ALGUEM SABE AONDE FAZER UM SITE,POR FAVOR!</comentario><comentario nome="mariane" email="amore_fofinha@zipmail.com.br" url="">gente num sei onde fazer um sitese me puderem indicar um agradecerei, ha e de preferencia que num seje caro?</comentario><comentario nome="Mayra Jord&amp;#227;o O. Santos" email="mayramac@bol.com.br" url="">Como se faz um site? Eu gostaria de fazer um.</comentario></mensagem>
+	<mensagem id="57">
+		<titulo>Comente!</titulo>
+		<texto>
+			Novidade! Colocamos sexta-feira nosso sistema de comentários nesse blog. Além disso, agora os posts tem links permanentes. Se quiser comentar qualquer coisa, fique à vontade, a casa é sua.
+		</texto>
+		<elcio/>
+		<data>07/27/2003</data>
+		<comentario nome="Ederson Peka" email="peka@sitedepoesias.cjb.net" url="elcio.locaweb.com.br/poesias">Muito bom! Parab&amp;#233;ns pelo site! Sucesso!</comentario><comentario nome="Rigonatti" email="merejli@hotmail.com" url="www.rigonatti.cjb.net">Parab&amp;#233;ns!! Um dia tamb&amp;#233;m chego l&amp;#225; !! </comentario><comentario nome="Ronaldo" email="" url="www.reflectivesurface.com/weblog-br/">Muito bom. Eu vivia querendo comentar alguma coisa e n&amp;#227;o tinha :-) Seria bom colocar a contagem de coment&amp;#225;rios na p&amp;#225;gina principal para ficar mais expl&amp;#237;cito o que j&amp;#225; aconteceu.</comentario><comentario nome="Samuel Vignoli" email="" url="www.cifraclub.com.br">A&amp;#237;, Elcio e Diego! O primeiro tableless a gente nunca esquece! :) Olhem: http://cifraclub.terra.com.br/angra.php - Ah! &amp;#201; s&amp;#243; um popup, por isso t&amp;#225; meio cru assim... pra ver bunitim, &amp;#233; s&amp;#243; entrar no Cifra Club e ver o destauqe principal! :) ABRA&amp;#199;O E OBRIGADO!</comentario><comentario nome="&amp;#216; G@&amp;#241;g&amp;#174;&amp;#235;&amp;#163;" email="o_gangrel@hotmail.com" url="">Olha... eu to penando pra me enquadrar no validator do w3c.
+Eu estou muito acostumado com as tabelas. Me &amp;quot;arrumo&amp;quot; super f&amp;#225;cil com elas.
+Por&amp;#233;m, &amp;#233; indicutivel a velocidade em que se pode come&amp;#231;ar a ver o conteudo do site.</comentario><comentario nome="Junior Della Mea" email="junior@acim.com.br" url="www.acim.com.br">Parab&amp;#233;ns!!!
+
+Espero que o tableless possa fazer com que desenvolvedores web criem um novo aculturamento de programa&amp;#231;&amp;#227;o. &amp;#201; indiscut&amp;#237;vel que a utiliza&amp;#231;&amp;#227;o de Padr&amp;#245;es Web no desenvolvimento de websites traz grandes vantagens para n&amp;#243;s desenvolvedores, lembrando que deste modo, nossos usu&amp;#225;rio/cliente tamb&amp;#233;m acaba ganhando.</comentario><comentario nome="Andr&amp;#233; Maranth" email="marcanth2001@yahoo.com" url="">Junior, concordo contigo sobre o modo tableless de fazer muita coisa, mas no momento estou aprendendo CSS e a cada momento come&amp;#231;o a me defrontar com dificuldades que me deixam injuriado.... Trata-se daquele browser daquela empresa do monop&amp;#243;lio, sabe? Eles n&amp;#227;o seguem as recomenda&amp;#231;&amp;#245;es do W3C, e portanto, a gente tem que dar voltas e mais voltas, fazer manobras, para poder fazer a coisa funcionar tamb&amp;#233;m no browser deles... Infelizmente, como um profissional, eu n&amp;#227;o posso fazer algo que n&amp;#227;o funcione naquele browser, mas &amp;#233; que eles tamb&amp;#233;m n&amp;#227;o colaboram nem um pouco, al&amp;#233;m de terem mais de 90% de mercado e terem criado a sua pr&amp;#243;pria forma de fazer as coisas, fazer o qu&amp;#234;, n&amp;#233;? Ent&amp;#227;o a gente tem que usar, &amp;#224;s vezes, c&amp;#243;digos propriet&amp;#225;rios para poder atender a todos de modo que ningu&amp;#233;m saia prejudicado. De qualquer forma, isso &amp;#233; um desafio, para os designers e desenvolvedores (conhece aquele menu com display: none e depois display: block?  Pois &amp;#233;... n&amp;#227;o funciona naquele browser e tenho que usar javascript).</comentario></mensagem>
+	<mensagem id="56">
+		<titulo>I Festival GNU/Linux de Salvador</titulo>
+		<texto>
+			Alguns posts anteriores, o Elcio mostrou vários links de sites "gringos" que estão botando para quebrar com a criação de sites tableless.[br /]
+			Mas gostaria de falar que os "brasucas" também estão de parabéns, um exemplo é o [a href="http://www.gnulinux.im.ufba.br" title="I Festival GNU/Linux"]site[/a] oficial do I Festival GNU/Linux de Salvador-BA.
+		</texto>
+		<diego/>
+		<data>07/26/2003</data>
+		<comentario nome="emon" email="" url="">sou de ssa e to aprendendo a pensar tableless, parabens ae galera!</comentario><comentario nome="Lorrene" email="lorrene@pop.com.br" url="lorrene.kit.net">Que bom voc&amp;#234; ter citado o Festival. Muito obrigada!</comentario><comentario nome="Wagner Saback Dantas" email="" url="coisa.im.ufba.br/~wgsaback">Que legal ver uma refer&amp;#234;ncia t&amp;#227;o conhecida por mim neste s&amp;#237;tio.  Foi uma grande surpresa. Realmente, Aur&amp;#233;lio est&amp;#225; de parab&amp;#233;ns!
+
+[]'s
+Wagner.</comentario></mensagem>
+	<mensagem id="55">
+		<titulo>Webstandards bem explicadinhos</titulo>
+		<texto>
+			Boa parte da relutância em adotar os padrões web pode ser atribuída à ignorância e preconceito dos desenvolvedores em relação a estes padrões. A época da guerra dos browsers, e aquele monte de tabelas aninhadas deixou muita gente com horror de HTML. Por isso estou tentando colocar sempre aqui exemplos de bons sites construídos com padrões. Os de hoje: [a href="http://www.inc.com"]Inc.com[/a] e [a href="http://www.assetsurveillance.com.au/"]Asset Surveillance[/a].[br /]
+			E um link interessante pra quem quer entender direito o que são esses tais standards: [a href="http://realworldstyle.com/portland03/" title="CSS, Markup and Standards: Back to the Future"]Back to the Future[/a].
+		</texto>
+		<elcio/>
+		<data>07/22/2003</data>
+	</mensagem>
+	<mensagem id="54">
+		<titulo>Estudo de CSS</titulo>
+		<texto>
+			Agora o tableless tem um lugar especial para aquele pessoal que gosta de aprender.[br /]
+			Pretendemos colocar [a href="estudo.asp" title="Área de Estudo de CSS"]aqui[/a] soluções para algumas dificuldades que muitas pessoas que estão começando, enfrentam ao tentar fazer sites [a href="http://www.tableless.com.br/"]tableless[/a]. 
+		</texto>
+		<diego/>
+		<data>07/22/2003</data>
+		<comentario nome="Samuel Vignoli" email="" url="www.cifraclub.com.br">SHOW DE BOLA! :)))</comentario><comentario nome="Gabriel Campos" email="gabriel_sbmc@yahoo.com.br" url="">mto bom!
+continuem atualizando!
+</comentario></mensagem>
+	<mensagem id="53">
+		<titulo>Dicas da arqHP</titulo>
+		<texto>
+			Quem é assinante da lista [a href="http://www.topica.com/lists/arqhp"]arqHP[/a], deve saber que o [a href="http://www.hypergraph.com.br/"]Irapuan Martinez[/a] sempre coloca umas dicas no rodapé de todas as mensagens da lista... Agora estas dicas podem ser encontradas [a href="dicasarq.asp"]aqui[/a].[br /]
+			São dicas sobre CSS, HTML, XHTML, que são muito úteis.
+		</texto>
+		<diego/>
+		<data>07/21/2003</data>
+	</mensagem>
+	<mensagem id="52">
+		<titulo>Entendendo CSS</titulo>
+		<texto>
+			O [a href="http://reflectivesurface.com/weblog-br/" title="Superfície Reflexiva"]Ronaldo[/a] disponibilizou o [a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/entendendoCSS" title="Construindo Sites com Padrões Web: Entendendo CSS"]quarto artigo[/a] da série [a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/" title="Construindo Sites com Padrões Web"]Construindo Sites com Padrões Web[/a].[br /]
+			Este [a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/entendendoCSS" title="Construindo Sites com Padrões Web: Entendendo CSS"]novo artigo[/a] está explicando a poderosa ferramenta que é o CSS. [br /]
+			Quem é navegante de primeira viajem, leia este artigo (e os outros), vale a pena.
+		</texto>
+		<diego/>
+		<data>07/18/2003</data>
+	</mensagem>
+	<mensagem id="51">
+		<titulo>Caramba! Eles não param mais!!!</titulo>
+		<texto>
+			Já está ficando monótona essa história de copiar aqui as novidades do site do [a href="http://www.zeldman.com"]Zeldman[/a], mas o que eu posso fazer? Os gringos estão com a macaca! Mais um tableless arrasador: [a href="http://www.pga.com/openchampionship/"]The Open Championship[/a]. Veja. Vale a pena.
+		</texto>
+		<elcio/>
+		<data>07/17/2003</data>
+	</mensagem>
+	<mensagem id="50">
+		<titulo>Thunderbird</titulo>
+		<texto>
+			Estou testando um cliente de email que se chama: [a href="http://texturizer.net/thunderbird/" title="Thunderbird"]Mozilla Thunderbird[/a].[br /]
+			A primeira vista parecia meio complicado, mas depois que você começa a conhecer o programa, você percebe que não tem segredo...[br /]
+			- Criação de Filtros para as mensagens[br /]
+			- Suporte a skins[br /]
+			- Tem como marcar um email como Junk Mail.[br /]
+			- É fácil de organizar as pastas e email[br /]
+			- Suporta Múltiplas contas[br /]
+			Só uma coisa que é ruim... É um pouco pesado. Mas vale a pena experimentar, quem sabe você não aposenta o velho Outlixo. Você pode até importar suas configurações do Outlook para o Thunderbird, rápido e fácil. [br /]
+		</texto>
+		<diego/>
+		<data>07/16/2003</data>
+		<comentario nome="Andr&amp;#233; Marcanth" email="marcanth2001@yahoo.com" url="">Eu adorei a dobradinha do browser Mozilla Firebird e o programa de e-mail Mozilla Thunderbird. Instalei os dois no Windows e no Linux e estou muito satisfeito. No entanto, o Firebird no Linux apresenta alguns problemas com as extens&amp;#245;es, enquanto que o Thunderbird, ainda que com os caracteres configurados para ISO 9958-1, n&amp;#227;o aceita cedilha, colocando um acento no c. Sei que vai melhorar, mas fora isso, n&amp;#227;o abro m&amp;#227;o dos dois para nada! (Ali&amp;#225;s, estou vendo esta p&amp;#225;gina com o Firebird).</comentario><comentario nome="Diego" email="" url="www.tableless.com.br">Firebird &amp;#233; o meu browser padr&amp;#227;o e o Thunderbird meu cliente de email padr&amp;#227;o.
+Gosto muito dos dois e como tb n&amp;#227;o abro mao.</comentario><comentario nome="Andr&amp;#233; Maranth" email="marcanth2001@yahoo.com" url="">Eu n&amp;#227;o sei se sou eu que n&amp;#227;o sou muito expert no assunto ou se o Thunderbird (e-mail) &amp;#233; um fant&amp;#225;stico cliente de e-mail  e isso que est&amp;#225; na vers&amp;#227;o 0.1!!!! Ser&amp;#225; que os programadores de outros clientes de e-mail, como os daquela empresa do monop&amp;#243;lio n&amp;#227;o se d&amp;#227;o conta de quanto tempo eles perdem fazendo programas que quase funcionam e cheios de bugs e &amp;quot;black holes&amp;quot; e quando se d&amp;#227;o conta o progama j&amp;#225; est&amp;#225; numa vers&amp;#227;o bem adiantada? Parab&amp;#233;ns &amp;#224; comunidade open source, parab&amp;#233;ns ao pessoal da Mozilla e muitos outros! (neste momento estou no Firebird, Linux). H&amp;#225; algum tempo que eu procurava um cliente de e-mail que fosse &amp;quot;free&amp;quot; (significando liberdade, sem ser trial ou sem ser crapware), mas depois de passar at&amp;#233; pelo Sylpheed e Pine, que &amp;#233; muito bom, achei o Thunderbird... e a&amp;#237; fiquei!</comentario></mensagem>
+	<mensagem id="49">
+		<titulo>E ainda mais sites Tableless</titulo>
+		<texto>
+			O [a href="http://www.zeldman.com"]Zeldman[/a] não para de anunciá-los. Dê uma olhada em mais esses dois: [a href="http://www.quark.com/" title="Quark Incorporated"]Quark Incorporated[/a] e [a href="http://6newslawrence.com/weather/" title="6 Weather: Lawrence, Kansas"]6 Weather: Lawrence, Kansas[/a].
+		</texto>
+		<elcio/>
+		<data>07/16/2003</data>
+	</mensagem>
+	<mensagem id="48">
+		<titulo>E mais sites Tableless</titulo>
+		<texto>
+			Eita, cada dia eu vejo um site tableless novo! Aqui no Brasil ainda são blogs e sites pessoais, e é mais raro encontrar um bom site comercial com design CSS. Mas lá fora, vixe! O [a href="http://www.zeldman.com"]Zeldman[/a] indicou mais dois hoje: [a href="http://www.message.uk.com/"]Message Digital Design Ltd[/a] e [a href="http://www.americanlongevity.net/"]American Longevity[/a], os dois muito, muito bons.
+		</texto>
+		<elcio/>
+		<data>07/14/2003</data>
+	</mensagem>
+	<mensagem id="47">
+		<titulo>Mais sites Tableless</titulo>
+		<texto>
+			Dica do [a href="http://www.zeldman.com/"]Zeldman[/a]:[br /]
+			[i]Next time some ill informed person declares that clean, structural XHTML markup and CSS layout are of no use to a "real" designer, show that fool Doug Bowman's sensitive, nuanced, and altogether pleasing [a href="http://www.adaptivepath.com/"]redesign of the Adaptive Path[/a] website, which launched last night. On his business site, Bowman dishes the [a href="http://www.stopdesign.com/log/2003/07/09/the_new_path.html"]details behind the design[/a].[/i][br /]
+			O [a href="http://www.adaptivepath.com/"]site[/a] ficou realmente muuuuito bom!
+		</texto>
+		<elcio/>
+		<data>07/10/2003</data>
+	</mensagem>
+	<mensagem id="46">
+		<titulo>A força do CSS</titulo>
+		<texto>
+			Quer sentir o que o CSS é capaz de fazer por você e por seu site?[br /]
+			Então visite: [a href="http://www.csszengarden.com/" title="Css Zen Garden"]Css Zen Garden[/a][br /]
+			Um belo projeto que mostra como podemos mudar o design do site modificando apenas 1 arquivo CSS.
+		</texto>
+		<diego/>
+		<data>07/09/2003</data>
+	</mensagem>
+	<mensagem id="45">
+		<titulo>RSS</titulo>
+		<texto>
+			O [a href="http://pilger.inf.br" title="pilger.inf.br: Blogs, RSS e um tal de Charles..."]Charles[/a] deu a idéia inicial. Tomei um tempinho pra pensar, e aqui vai: [a href="http://elcio.locaweb.com.br/rss" title="Crie RSS com ASP, fácil e rápido"]RSSficador[/a], um jeito fácil de criar RSS com ASP, XML e Expressões Regulares. De quebra, o Tableless também ganhou um [a href="http://www.tableless.com.br/makerss.asp?feed=tableless"]RSS[/a].
+		</texto>
+		<elcio/>
+		<data>07/03/2003</data>
+	</mensagem>
+	<mensagem id="44">
+		<titulo>Browsers</titulo>
+		<texto>
+			Ferramenta importante para o bom desenvolvimento de um site WebStandards. É bom o pessoal que está começando conheça estes browsers, e se possível tenha eles instalados para poder testar os sites, e até escolher um preferido.[br /][br /]
+			Lynx (Browser de texto) - [a href="http://lynx.browser.org/"]http://lynx.browser.org/[/a][br /]
+			Netscape - [a href="http://channels.netscape.com/ns/browsers/"]http://channels.netscape.com/ns/browsers/[/a][br /]
+			Mozilla - [a href="http://www.mozilla.org/"]http://www.mozilla.org/[/a][br /]
+			Firebird - [a href="http://www.mozilla.org/projects/firebird/"]http://www.mozilla.org/projects/firebird/[/a][br /]
+			Opera - [a href="http://www.opera.com/"]http://www.opera.com/[/a][br /]
+			Konkeror (Linux) - [a href="http://www.konqueror.org/"]http://www.konqueror.org/[/a][br /]
+			Safari (Mac) - [a href="http://www.apple.com/safari/"]http://www.apple.com/safari/[/a][br /]
+			Internet Explorer - [a href="http://www.microsoft.com/ie/"]http://www.microsoft.com/ie/[/a]
+		</texto>
+		<diego/>
+		<data>07/01/2003</data>
+	</mensagem>
+	<mensagem id="43">
+		<titulo>Redesign!</titulo>
+		<texto>
+			Tableless agora está de cara nova.[br /]
+			Não que o design antigo estivesse ruim, mas estava dando pequenos problemas em alguns browsers, então resolvi fazer um redesign de visual e código.[br /]
+			O site ficou mais complacente com os padrões, mais leve, mais acessível, e mais fácil para fazer manutenção.[br /]
+		</texto>
+		<diego/>
+		<data>06/27/2003</data>
+	</mensagem>
+	<mensagem id="42">
+		<titulo>Construindo Sites com Padrões WEB</titulo>
+		<texto>
+			Uma série de [a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/conteudo"]artigos[/a] sobre Sites com Padrões Web que o [a href="http://reflectivesurface.com/weblog-br/"]Ronaldo M. Ferraz[/a], está escrevendo.[br /]
+			Estes artigos são ótimos para pessoas que estão começando a se interessar por Padrões da Web, e querem criar sites [a href="http://www.tableless.com.br/"]Tableless[/a] e responde a muitas questões freqüentes sobre o assunto. Já tem dois artigos prontos. É só conferir.[br /]
+			[a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/introducao"]Artigo 1 - Introdução[/a][br /]
+			[a href="http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/ferramentas"]Artigo 2 - Ferramentas[/a]
+		</texto>
+		<diego/>
+		<data>06/24/2003</data>
+	</mensagem>
+	<mensagem id="41">
+		<titulo>Revista do Linux</titulo>
+		<texto>
+			Sou leitor assíduo da [a href="http://www.revistadolinux.com.br/"]Revista do Linux[/a]. Fiquei muito surpreso, e contente, quando comecei a ler a edição desse mês e encontrei, na página 7, uma nota sobre o desenvolvimento tableless, com link para o [a href="http://www.tableless.com.br"]Tableless.com.br[/a], o nome do [a href="http://eyesmiles.kit.net"]Diego[/a] e o meu. Obrigado ao pessoal da Revista do Linux pela força. Um viva multiplataforma!
+		</texto>
+		<elcio/>
+		<data>06/17/2003</data>
+	</mensagem>
+	<mensagem id="40">
+		<titulo>Fotografia? É Clicio!</titulo>
+		<texto>
+			A [a href="http://www.atipico.com.br/"]Atípico[/a] colocou mais um site no ar, é o site do grande fotógrafo [a href="http://www.clicio.com.br/"]Clicio Barroso[/a].[br /]
+			É fotógrafo a mais de 20 anos e também dá cursos de Foto Publicitária, Fotografia de Moda e Tratamento Digital no Senac.[br /]
+			[a href="http://www.clicio.com.br/"]Clicio - Fotografia Profissional[/a]
+		</texto>
+		<diego/>
+		<data>06/16/2003</data>
+	</mensagem>
+	<mensagem id="39">
+		<titulo>Usabilidade na WEB tá novo!</titulo>
+		<texto>
+			A nossa amiga [a href="http://usabilidadenaweb.blogger.com.br/"]Simone[/a] reformulou o layout do [a href="http://usabilidadenaweb.blogger.com.br/"]Usabilidade na WEB[/a]. Ficou muito bonito, os artigos que ela escreve são demais, e além de tudo é TABLELESS.[br /]
+			Vale a visita. [a href="http://usabilidadenaweb.blogger.com.br/"]Usabilidade na WEB[/a].
+		</texto>
+		<diego/>
+		<data>06/12/2003</data>
+	</mensagem>
+	<mensagem id="38">
+		<titulo>99,9% dos sites web estão obsoletos</titulo>
+		<texto>
+			O [a href="http://www.pedromendes.com/" target="_blank"]Pedro Mendes[/a] traduziu o artigo do [a href="http://www.zeldman.com" target="_blank"]Zeldman[/a].[br /]
+			[a href="http://www.pedromendes.com/words/zeldman-200305-99percent.html" target="_blank"]99,9% dos sites web estão obsoletos[/a][br /]
+			Lendo o artigo, eu tive mais certeza de que: [a href="http://www.tableless.com.br/"]Tableless[/a] é o bicho!
+		</texto>
+		<diego/>
+		<data>06/12/2003</data>
+	</mensagem>
+	<mensagem id="37">
+		<titulo>Quer estudar CSS?</titulo>
+		<texto>
+			É em inglês, mas mesmo assim dá para aprender um bocado.[br /]
+			Ótimos exemplos de layouts em css, bugs de browsers, dicas de sites, etc... vale muito a pena ler os source (código fonte), e aprender um pouco sobre o que dá para fazer com CSS. [br /]
+			[a href="http://www.positioniseverything.net/" title="Position is Every Thing"]http://www.positioniseverything.net/[/a]
+		</texto>
+		<diego/>
+		<data>06/08/2003</data>
+	</mensagem>
+	<mensagem id="36">
+		<titulo>Um bom motivo</titulo>
+		<texto>
+			Para quem está mudando para [a href="http://www.tableless.com.br/"]tableless[/a], mas ainda está com um pé atrás. 
+			Aqui vai um (um dos) bom motivo  para você migrar para o [a href="http://www.tableless.com.br/" title="Tableless"]TABLELESS[/a].[br /]
+			[a href="http://www.utad.pt/wai/wai-pageauth.html#gl-structure-presentation" title="Utilizar corretamente anotações e folhas de estilo"]Utilizar corretamente anotações e folhas de estilo[/a]
+		</texto>
+		<diego/>
+		<data>06/01/2003</data>
+	</mensagem>
+	<mensagem id="35">
+		<titulo>Novo Site da Atípico</titulo>
+		<texto>
+			Foi pro ar o novo site da [a href="http://www.atipico.com.br" title="Atípico - sites e aplicações internet de resultado, webdesign, redesign, sistemas personalizados, manutenção de conteúdo, divulgação da marca, atendimento ao consumidor, fidelização da marca, B2B, B2C, B2E, ASP, usabilidade."]Atípico[/a]. Usando o sistema [a href="http://www.atipico.com.br/conteudo.asp?P_pag=68" title="Atípico Prodo"]Prodo[/a] de gerenciamento de conteúdo, o site foi construído com XML, XSLT, XHTML e CSS, totalmente [a href="http://www.tableless.com.br/"]Tableless[/a], em apenas uma semana.
+		</texto>
+		<elcio/>
+		<data>05/30/2003</data>
+	</mensagem>
+	<mensagem id="34">
+		<titulo>Para navegantes de primeira viagem</titulo>
+		<texto>
+			Muitas pessoas vem indicando sites [a href="http://www.tableless.com.br/"]tableless[/a] para o [a href="diretoriotableless.asp" title="Diretório Tableless"]Diretório Tableless[/a], mas infelizmente alguns dos sites não são incluídos por um motivo simples, mas que é desconhecido para os navegantes de primeira viagem.[br /]
+			Não é porque um certo site não usa tabelas, que ele vai ser um completo site [a href="http://www.tableless.com.br/" title="Tableless"]tableless[/a], um site tableless não é só isso... O site precisa ter um código semânticamente correto, organizado. Para tornarmos a web semântica, primeiramente precisamos tornar o nosso código semântico.
+		</texto>
+		<diego/>
+		<data>05/25/2003</data>
+	</mensagem>
+	<mensagem id="33">
+		<titulo>Tutorial Tableless</titulo>
+		<texto>
+			Vocês me escreveram tanto pedindo isso, que lá vai: [a href="http://www.tableless.com.br/tutorial/"]Tutorial Básico de Tableless[/a].
+		</texto>
+		<elcio/>
+		<data>05/14/2003</data>
+	</mensagem>
+	<mensagem id="32">
+		<titulo>Mais um!</titulo>
+		<texto>
+		Mais uma dica do [a href="http://www.zeldman.com/"]Zeldman[/a] de site redesenhado usando CSS para formatação e XHTML para informação.[br /]
+		[a href="http://www.discoveringmontana.com/"]http://www.discoveringmontana.com/[/a]
+		</texto>
+		<diego/>
+		<data>05/13/2003</data>
+	</mensagem>
+	<mensagem id="31">
+		<titulo>Você é tableless?! Se for, pegue seu selo!</titulo>
+		<texto>
+		Se você tem um site tableless, além de poder colocá-lo no [a href="http://www.tableless.com.br/diretoriotableless.asp"]Diretório Tableless[/a], você pode inserir (se quiser) este selo no seu site. [br /][img src="imagens/soutableless.gif" alt="Se seu site é tableless pegue este selo" /] 
+		</texto>
+		<diego/>
+		<data>05/09/2003</data>
+	</mensagem>
+	<mensagem id="30">
+		<titulo>Mais um exemplo Tableless</titulo>
+		<texto>
+		[a href="http://www.ami.com/" target="_blank"]AMI - American Megatrend[/a] (Dica do [a href="http://www.zeldman.com/" target="_blank"]Zeldman[/a])[br /]
+		Foi redesenhado usando CSS e XHTML.[br /]
+		Outro dia, uma pessoa me disse que ainda não está na hora do Tableless. Que ainda não vale a pena.[br /]
+		Mas as provas de que pensar deste modo é errado estão ai na internet, mais e mais sites estão mudando.[br /]
+		É melhor esperar a hora do Tableless chegar ou é melhor você fazer a hora do Tableless chegar?
+		</texto>
+		<diego/>
+		<data>05/07/2003</data>
+	</mensagem>
+	<mensagem id="29">
+		<titulo>Diretório tableless no ar</titulo>
+		<texto>
+		Lembram do diretório de sites tableless em português que eu estava armando?[br /]
+		Pois é, eu disponibilizei: [a href="http://www.tableless.com.br/diretoriotableless.asp"]Diretório Tableless[/a].[br /]
+		É bom para navegar e dar uma olhada no source, descobrir como tal pessoa resolveu um certo problema, etc.. [br /] E se você sabe de algum site tableless em português que não está listado no diretório, basta nos [a href="http://www.tableless.com.br/sugira.asp"]sugerir[/a] a url.
+		</texto>
+		<diego/>
+		<data>05/02/2003</data>
+	</mensagem>
+	<mensagem id="28">
+		<titulo>Vencedor do WthRemix</titulo>
+		<texto>
+		O concurso [a href="http://w3mix.web-graphics.com/win.php"]WthRemix[/a], que propunha o exercício de fazer uma versão para o site da [a href="http://www.w3c.org/"]W3C[/a], chegou ao fim.[br /]
+		No julgamento, os sites eram testados em vários navegadores, passando por WebTVs e Pocket IE, fora outros testes que eram feitos no [a href="http://bobby.watchfire.com/bobby/html/en/index.jsp"]Bobby[/a] e a [a href="http://validator.w3.org/"]validação do HTML[/a].[br /]
+		O vencedor do concurso foi: [a href="http://www.homelesspixel.de/remix/"]http://www.homelesspixel.de/remix/[/a].
+		Vale a pena estudar os sources dos dos [a href="http://w3mix.web-graphics.com/entries.php"]inscritos[/a].
+		</texto>
+		<diego/>
+		<data>04/21/2003</data>
+	</mensagem>
+	<mensagem id="27">
+		<titulo>VIVO-SP Tableless</titulo>
+		<texto>
+		Implementei (ainda faltam detalhes), mas quis divulgar para fechar a semana de páscoa.[br /] Ainda estou ajustando alguma coisa no código, mas já está 99% pronto... Sugestões e Críticas são bem vindas, não se esqueçam.[br /]
+		[a href="vivo/" target="_blank" title="Versão Tableless"]VIVO-SP Tableless[/a][br /]
+		Feliz Páscoa!
+		</texto>
+		<diego/>
+		<data>04/17/2003</data>
+	</mensagem>
+	<mensagem id="26">
+		<titulo>Burburinho</titulo>
+		<texto>
+		Mais um site brasileiro virou tableless, é o [a href="http://www.burburinho.com/" target="_blank" title="Burburinho"]Burburinho[/a].[br /]
+		</texto>
+		<diego/>
+		<data>04/16/2003</data>
+	</mensagem>
+	<mensagem id="25">
+		<titulo>Mais um</titulo>
+		<texto>
+		Mais um tableless:[br /]
+		[a href="http://www.shintsubo.com.br" title="Shin Tsubô - Conserve sua saúde energizando seu corpo"]Shin Tsubô[/a].[br /]
+		</texto>
+		<elcio/>
+		<data>04/10/2003</data>
+	</mensagem>
+	<mensagem id="24">
+		<titulo>Tableless não morde</titulo>
+		<texto>
+		Escrevi mais um artigo sobre tableless, mas esqueci de postar. :-)[br /]
+		[a href="tablelessnaomorde.asp"]Tableless não morde[/a].[br /]
+		</texto>
+		<diego/>
+		<data>04/09/2003</data>
+	</mensagem>
+	<mensagem id="23">
+		<titulo>É tableless</titulo>
+		<texto>
+		[a href="http://www.lingua-mensagem.com.br"
+		title="Língua &amp; Mensagem - Verbal Visual Virtual"]Comunicação
+		em qualquer idioma[/a].
+		</texto>
+		<elcio/>
+		<data>04/01/2003</data>
+	</mensagem>
+	<mensagem id="22">
+		<titulo>FastCompany</titulo>
+		<texto>
+		Mais um portal foi redesenhado, usando XHTML e CSS.[br /]
+		[a href="http://www.fastcompany.com/homepage/index.html" target="_blank"]FastCompany[/a].[br /]
+		Naveguei pouco no site, mas consegui encontrar alguns errinhos, como por exemplo: na barra onde podemos escolher o tamanho da fonte, no Opera 5, as palavras aparecem sobrepostas, fora a mensagem que aparece para o usuário de NN4.
+		</texto>
+		<diego/>
+		<data>01/04/2003</data>
+	</mensagem>
+	<mensagem id="21">
+		<titulo>Samsung Brasil</titulo>
+		<texto>
+		Site da [a href="http://www.samsung.com.br/" target="_blank"]Samsung Brasil[/a] foi implementado.[br /]
+		[a href="http://www.tableless.com.br/samsung/" target="_blank"]Confira.[/a]
+		</texto>
+		<diego/>
+		<data>03/30/2003</data>
+	</mensagem>
+	<mensagem id="20">
+		<titulo>Aderindo ao Tableless</titulo>
+		<texto>
+		Cada vez mais sites com grandes conteúdos estão aderindo ao tableless... Já temos o exemplo da [a href="http://www.espn.com/" target="_blank"]ESPN[/a], que está passando todo o seu site para XHTML e CSS... [br /][br /]Estes dois sites também servem como exemplo: [a href="http://www.berlingske.dk/" target="_blank"]www.berlingske.dk[/a] e [a href="http://here.alfalaval.com/?" target="_blank"]here.alfalaval.com/?[/a][br /]
+		[br /]Acho que agora, faltaram desculpas para não fazer portais em tableless.
+		</texto>
+		<diego/>
+		<data>03/17/2003</data>
+	</mensagem>
+	<mensagem id="19">
+		<titulo>Precisamos de sua ajuda</titulo>
+		<texto>
+		Estou montando um pequeno "diretório" de sites que são tableless. Gostaria de pedir a ajuda dos visitantes, para que se alguém conhecer algum site BRASILEIRO que seja tableless, por favor, me enviem por [a href="mailto:diegoeis@bol.com.br" title="Enviem por aqui"]email[/a].[br /][br /] O site precisa ser BRASILEIRO ok?! Não tem tipo específico, qualquer site que vc conhecer e for tableless, tá valendo!
+		</texto>
+		<diego/>
+		<data>03/12/2003</data>
+		<comentario nome="Rodrigo Figueira" email="rnfigueira@sispro.com.br" url="">Oi, na verdade n&amp;#227;o &amp;#233; um coment&amp;#225;rio, mas sim um HELP.Gostaria de saber no que o CSS pode me ajudar em rela&amp;#231;&amp;#227;o a visualiza&amp;#231;&amp;#227;o de imagens. Eu tenho um formul&amp;#225;rio que ter&amp;#225; v&amp;#225;rias imagens pequenas, quando o usu&amp;#225;rio clicar sobre alguma delas ela &amp;#233; visualizada em outra janela no seu tamanho original</comentario></mensagem>
+	<mensagem id="18">
+		<titulo>Pedro Mendes</titulo>
+		<texto>
+		Navegando pelo [a href="http://www.google.com.br/" target="_blank"]oráculo[/a], encontrei o site deste camarada.[br /]
+		Ele aborda assuntos como XHTML, CSS, Acessibilidade, WebStandards. [br /]E o mais importante, o site dele é TABLELESS.[br /]
+		[a href="http://www.pedromendes.com/words.html" target="_blank" title="Pedro Mendes"]Pedro Mendes[/a]
+		</texto>
+		<diego/>
+		<data>03/04/2003</data>
+	</mensagem>
+	<mensagem id="17">
+		<titulo>CSS e suas compatibilidades</titulo>
+		<texto>
+		O [a href="http://www.listagem.com.br/" target="_blank" title="João Fanara"]João Fanara[/a] da lista da [a href="http://www.10minutos.com.br/" target="_blank" title="WDDesign - 10Minutos"]WDDesign[/a], indicou este site que mostra um ranking de browsers que tem maior compatibilidade com CSS.
+		[a href="http://www.xs4all.nl/~ppk/css2tests/" target="_blank" title="CSS2 Tests"]Css2 Tests[/a]
+		</texto>
+		<diego/>
+		<data>02/28/2003</data>
+	</mensagem>
+	<mensagem id="16">
+		<titulo>ESPN Tableless</titulo>
+		<texto>
+		O site da ESPN está migrando para o XHTML.[br /]
+		O [a href="http://www.zeldman.com/" target="_blank" title="Zledman"]Zeldman[/a] dá mais informações: [a href="http://www.zeldman.com/daily/0203b.shtml#espn" target="_blank"]ESPN Tableless[/a][br /]
+		Pescado de [a href="http://elcio.locaweb.com.br/blog/" target="_blank" title="FechaTAG"]FechaTAG[/a]
+		</texto>
+		<diego/>
+		<data>02/25/2003</data>
+	</mensagem>
+	<mensagem id="15">
+		<titulo>Browsers</titulo>
+		<texto>
+		Uma lista de browsers para você poder baixar... [a href="http://browsers.evolt.org" target="_blank" title="Browsers"]http://browsers.evolt.org[/a]
+		</texto>
+		<diego/>
+		<data>02/25/2003</data>
+	</mensagem>
+	<mensagem id="14">
+		<titulo>Nova lista de discussão</titulo>
+		<texto>
+		O [a href="http://www.hypergraph.com.br/" target="_blank" title="Irapuan Martinez"]Irapuan Martinez[/a] criou uma lista de discussão chamada [a href="http://www.topica.com/lists/arqhp" target="_blank" title="Arquitetura de Home Pages"]Arquitetura de home pages (arqHP)[/a], que aborda assuntos sobre HTML, XHTML, XML, tableless, CSS, semântica e muito mais.
+		</texto>
+		<diego/>
+		<data>02/21/2003</data>
+	</mensagem>
+	<mensagem id="13">
+		<titulo>Quanto você já usa XML?</titulo>
+		<texto>
+		O [a href="http://elcio.locaweb.com.br/blog/"]Elcio[/a] fez uma enquete sobre:[br /] [a href="javascript:void(open('http://www.enquetes.com.br/popenquete.asp?id=299812','pop299812','resizable=yes,width=615,height=420,scrollbars=yes'))"]Quanto você já usa XML?[/a].[br /]
+		É só clicar e responder... é rápido...
+		</texto>
+		<diego/>
+		<data>02/20/2003</data>
+	</mensagem>
+	<mensagem id="12">
+		<titulo>XHTML válido</titulo>
+		<texto>
+		Como o [a href="http://elcio.locaweb.com.br/blog" target="_blank"]Elcio[/a] já deu uma boa enxugada sobre XHTML no artigo [a href="http://elcio.locaweb.com.br/tableless/simplicidade.asp" target="_blank"]Simplicidade[/a], resolvi dar apenas uma esclarecida sobre [a href="http://elcio.locaweb.com.br/tableless/xhtml.asp"]como escrever um XHTML válido[/a].
+		</texto>
+		<diego/>
+		<data>02/02/2003</data>
+	</mensagem>
+	<mensagem id="11">
+		<titulo>Bugs de Browsers</titulo>
+		<texto>
+		Ter conhecimento dos bugs de renderização dos browsers é sempre bom para se fazer um site TABLELESS. O site [a href="http://css.nu/pointers/point-tip.html"]CSSPG - CSS Pointer Group[/a] é um bom site sobre CSS, onde uma das seções é o [a href="http://css.nu/pointers/bugs.html"]Browsers Bugs[/a], apesar de ter informações de apenas alguns browsers, dá para fazer um bom proveito.
+		</texto>
+		<diego/>
+		<data>01/30/2003</data>
+	</mensagem>
+	<mensagem id="10">
+		<titulo>Simplicidade</titulo>
+		<texto>
+		O pessoal em listas de discussão vivia me pedindo pra explicar pra que serve esse tal de XHTML e quais as vantagens do tableless. Tentei responder nesse [a title="Simplicidade" href="http://elcio.locaweb.com.br/tableless/simplicidade.asp"]artigo[/a]. Não me preocupei muito com o rigor técnico, por isso não ligue se encontrar alguma informação tecnicamente inexata. É só pra explicar o espírito da coisa.
+		</texto>
+		<elcio/>
+		<data>01/28/2003</data>
+	</mensagem>
+	<mensagem id="9">
+		<titulo>Saila.com</titulo>
+		<texto>
+		Para quem está iniciando neste negócio de [a href="http://www.tableless.com.br/"]TABLELESS[/a] e tem algumas dúvidas de como fazer algumas coisas essenciais, este site ensina muita coisa importante para se desenvolver um site TABLELESS: [a href="http://www.saila.com/usage/layouts/" title="Saila.com" target="_blank"]Saila.com[/a]
+		</texto>
+		<diego/>
+		<data>01/26/2003</data>
+	</mensagem>
+	<mensagem id="8">
+		<titulo>Safari</titulo>
+		<texto>
+		No dia 7 de Janeiro, a Apple disponibilizou uma versão BETA do seu novo browser: [a href="http://www.apple.com/safari" target="_blank" title="O novo browser da Apple: Safari"]Safari[/a].[br /]
+		Andei dando uma pesquisada no [a href="http://www.google.com.br/" target="_blank"  title="Google"]Google[/a], por informações sobre bugs de renderização que possam existir no [a href="http://www.apple.com/safari" target="_blank" title="O novo browser da Apple: Safari"]Safari[/a], e acabei encontrando.
+		[br /]Confira em: [a href="http://diveintomark.org/safari/" target="_blank" title="dive://into.mark"]dive://into.mark[/a].
+		</texto>
+		<diego/>
+		<data>01/16/2003</data>
+	</mensagem>
+	<mensagem id="7">
+		<titulo>Ponto Software</titulo>
+		<texto>
+		A [a href="http://www.atipico.com.br/" target="_blank" title="Atípico Web E-déias"]Atípico[/a] colocou mais um site no ar.[br /]
+		O site é para uma empresa especializada em chão de fábrica, que desenvolveram uma solução para o planejamento, execução e controle de manufatura, a [a href="http://www.pontosoftware.com.br/" target="_blank" title="Ponto Software"]Ponto Software[/a].[br /]
+		O site é totalmente [a href="http://www.tableless.com.br/"]TABLELESS[/a], usamos XHTML e CSS, a programação foi feita em ASP.
+		</texto>
+		<diego/>
+		<data>01/10/2003</data>
+	</mensagem>
+	<mensagem id="6">
+		<titulo>IBM!</titulo>
+		<texto>
+		Temos mais um grande site implementado. O site da IBM Brasil. [br /]
+		Estou dando uns retoques no código, mas já tá pronto![br /]
+		O layout ainda apresenta poucas diferenças no Opera.
+		Qualquer dúvida, crítica ou sugestão, basta mandar um [a href="mailto:diegoeis@bol.com.br"]email[/a]!
+		</texto>
+		<diego/>
+		<data>01/08/2003</data>
+	</mensagem>
+	<mensagem id="5">
+		<titulo>Css HACK ou GAMBIARRA!</titulo>
+		<texto>
+		Muitos abominam, outros acham que é um grande quebra galho... Dei uma navegada na web e achei um bocado de coisa ensinando algumas gambiarras. [br /]
+		[a href="http://www.v2studio.com/k/" target="_blank" title="www.v2studio.com/k"]www.v2studio.com/k[/a][br /]
+		[a href="http://css-discuss.incutio.com/" target="_blank" title="css-discuss.incutio.com"]css-discuss.incutio.com[/a][br /]
+		[a href="http://www.fo3nix.pwp.blueyonder.co.uk/" target="_blank" title="www.fo3nix.pwp.blueyonder.co.uk"]www.fo3nix.pwp.blueyonder.co.uk[/a][br /]
+		Fazer ou não fazer?[br /]
+		[a href="http://css-discuss.incutio.com/?page=ToHackOrNotToHack" target="_blank"]ToHackOrNotToHack[/a]
+		</texto>
+		<diego/>
+		<data>01/02/2003</data>
+	</mensagem>
+	<mensagem id="4">
+		<titulo>Usabilidade</titulo>
+		<texto>
+		URL enviada: [a href="http://usabilidadenaweb.kit.net/" target="_blank"]Usabilidade na WEB[/a]. Mais um bom site brasileiro sobre usabilidade, vale o click.
+		</texto>
+		<diego/>
+		<data>01/02/2003</data>
+	</mensagem>
+	<mensagem id="3">
+		<titulo>Google é TABLELESS!!</titulo>
+		<texto>
+		Hey galera...[br /]
+		Não quero que pensem que eu não tenho nada para fazer... Mas implementei mais um site... O consagrado [a href="http://www.google.com.br/" target="_blank"]Google[/a].[br /]
+		Particularmente eu pensava que ele era tableless, mas ainda não tinha aberto o código para dar uma olhada... Mas hoje fui curioso e abri, hihi não era TABLELESS.
+		</texto>
+		<diego/>
+		<data>01/02/2003</data>
+	</mensagem>
+	<mensagem id="2">
+		<titulo>Mais um!</titulo>
+		<texto>Entra mais um site na lista![br /]
+		Eu estava navegando no [a href="http://www.37signals.com/" target="_blank"]37Signals[/a], ai entrei na parte de Clientes deles... então eu só escolhi... É o [a href="http://www.kicksology.net" target="_blank"]Kicksology.net[/a].[br /]</texto>
+		<diego/>
+		<data>01/01/2003</data>
+	</mensagem>
+	<mensagem id="1">
+		<titulo>Inaugurando!</titulo>
+		<texto>Este site vem como objetivo mostrar para todos os interessados, estudantes ou profissionais, que é possível fazer um site [a href="http://www.tableless.com.br/"]TABLELESS[/a] compatível com as especificações da [a href="http://www.w3c.org/" target="_blank" title="World Wide Web Consortium"]W3C[/a].[br /][br /]
+		Se você tiver alguma crítica, dúvida ou sugestão, basta entrar em contato conosco, ficaremos gratos.</texto>
+		<diego/>
+		<data>01/01/2003</data>
+	</mensagem>
+</blog>

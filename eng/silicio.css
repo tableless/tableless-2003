@@ -1,0 +1,148 @@
+body {
+	text-align:center;
+	background:url("imagens/fundobody.gif");
+}
+
+img {
+	border:0px;
+}
+
+p img {
+	vertical-align:top;
+	margin:2px 0px 0px;
+}
+
+hr {
+	display:none;
+}
+
+/*****************************
+Div dos banners
+*****************************/
+.banner {
+	margin:15px 0px;
+}
+
+.banner img {
+	width:468px;
+	height:60px;
+	border:1px solid #939393;
+}
+
+/*****************************
+Div que tem as linhas vermelhas
+*****************************/
+.vermelhos {
+	height:24px;
+	background:url("imagens/vermelho.gif") repeat-X;
+}
+
+/*****************************
+Div MESTRE
+*****************************/
+#geral {
+	background:url("imagens/fundogeral.gif") #EAEAEA repeat-Y;
+}
+
+#geralhome {
+	background:url("imagens/fundogeral2.gif") #EAEAEA repeat-Y;
+}
+
+/*****************************
+Topo
+*****************************/
+#topo {
+	height:79px;
+	background:url("imagens/logopb.gif") white no-repeat top right;
+}
+
+/*****************************
+Conteúdo
+*****************************/
+#conteudo {
+	margin:0px 0px 0px 156px;
+}
+
+#blog {
+	padding:0px 156px;
+}
+
+/*****************************
+Lado Direito
+*****************************/
+.site img {
+	width:121px;
+	height:30px;
+	border:1px solid #939393;
+}
+
+/*****************************
+Lado Esquerdo
+*****************************/
+#esquerda {
+	float:left;
+}
+
+#menu a:hover, #menu a:active {
+	color:#EA0000;
+	border-bottom:1px dashed #EA0000;
+}
+
+/*****************************
+Comentário
+*****************************/
+#comentario {
+	margin:10px 0px 0px 15px;
+	font:90% Tahoma, Arial, Verdana, Helvetica, Sans-Serif;
+}
+
+#comentario input, textarea {
+	margin:1px 0px 5px;
+	font:90% Tahoma, Arial, Verdana, Helvetica, Sans-Serif;
+	vertical-align:middle;
+}
+
+.comentario {
+	margin:0px 0px 20px;
+}
+
+/*****************************
+Inputs
+*****************************/
+.letras {
+	float:left;
+	text-align:right;
+	font:80% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+	margin:0px 10px 0px 30px;
+}
+
+.inputs {
+	margin:0px 0px 0px 132px;
+}
+
+input {
+	border:1px solid #939393;
+}
+
+.inputtexto {
+	width:200px;
+	margin:0px 0px 5px;
+}
+
+.botao {
+	width:200px;
+	text-align:right;
+}
+
+.botao input {
+	border:0px;
+}
+
+textarea {
+	background:white;
+	border:1px solid #939393;
+	width:200px;
+}
+pre{
+	margin:5px 15px;
+}

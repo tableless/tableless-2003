@@ -1,0 +1,155 @@
+/*****************************
+Listas
+*****************************/
+ol, ul, blockquote {
+	font:90% Tahoma, Trebuchet Ms, Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+/*****************************
+Títulos
+*****************************/
+h1, h2, h3, h4, h5, h6 {
+	margin:0px;
+	color:#EA0000;
+}
+
+h1 {
+	margin:20px 15px 0px;
+	font:140% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+}
+
+h1 a, h1 a:visited {
+	color:#EA0000;
+}
+
+h2 {
+	font:120% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+}
+
+h3 {
+	font:90% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+	margin:0px 15px;
+}
+
+/*****************************
+Div MESTRE
+*****************************/
+#geral {
+	width:701px;
+	margin:0px auto;
+	background:white;
+	border:1px solid #939393;
+	text-align:left;
+}
+
+/*****************************
+Assinatura
+*****************************/
+.assinatura {
+	color:#EA0000;
+	font:60% Tahoma, Trebuchet Ms, Verdana, Arial, Helvetica, Sans-Serif;
+	margin:5px 15px 0px;
+}
+
+/*****************************
+Conteúdo
+*****************************/
+#conteudo p {
+	margin:0px 15px 20px;
+	font:90% Tahoma, Trebuchet Ms, Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+#conteudo a:hover, #conteudo a:active {
+	background:#EA0000;
+	color:white;
+	text-decoration:none;
+}
+
+#blog p {
+	margin:0px 15px;
+	font:90% Tahoma, Trebuchet Ms, Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+#blog a:hover, #blog a:active {
+	background:#EA0000;
+	color:white;
+	text-decoration:none;
+}
+
+/*****************************
+Lado Esquerdo
+*****************************/
+#esquerda {
+	width:152px;
+	height:305px;
+	background:url("imagens/logomenu.gif") no-repeat;
+}
+
+#menu {
+	padding:20px 5px 0px 0px;
+	font:bold 100% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+	text-align:right;
+}
+
+#menu a, #menu a:visited {
+	text-decoration:none;
+	color:#7F7F7F;
+}
+
+/*****************************
+Lado direito
+*****************************/
+#direita {
+	float:right;
+	text-align:center;
+	width:154px;
+}
+
+.site {
+	margin:15px 0px;
+}
+
+.site a, .site a:visited {
+	font:80% Tahoma, Trebuchet Ms, Verdana, Arial, Helvetica, Sans-Serif;
+}
+
+.site a:hover, .site a:active {
+	color:#EA0000;
+	text-decoration:none;
+}
+
+/*****************************
+Rodapé
+*****************************/
+#rodape {
+	background:white;
+	height:83px;
+}
+
+#rodape a, #rodape a:visited {
+	font:bold 80% Trebuchet Ms, Verdana, Arial, Tahoma, Helvetica, Sans-Serif;
+	color:#000000;
+	text-decoration:none;
+}
+
+#rodape a:hover, #rodape a:active {
+	color:#EA0000;
+	text-decoration:none;
+}
+
+#rodape div {
+	padding:5px;
+}
+
+#rodape img {
+	margin:0px 0px 3px;
+}
+
+#esquerdarodape {
+	width:200px;
+}
+
+#direitarodape {
+	float:right;
+	text-align:right;
+}

@@ -1,0 +1,11 @@
+this is a special place to that people who appreciate to learn.
+We pretend put here solutions to some difficulty that a lot of people starting, affront when try do make tableless sites :
+
+1. Simple horizontal menu ( made with list)
+2. Vertical horizontal menu  (made with list)
+3. Layout in the Screen Center 
+4. Element in the Screen Center 
+5. DIV that ends in another DIV (under study ) 
+6. Multiple Resolutions Layout (Fluid ) 
+
+If you have some sugestion, please, send us a e-mail, we need your help.

@@ -1,0 +1,111 @@
+1.México also does tableless!
+http://www.monolinea.com
+Tableless and very good looking site! Kemie Quaida portfolio.
+posted by Diego Alberto Eis | September, 23, 2003 | comment this!
+
+2.How to make a CSS automatic menu!
+List - o - matic
+In this link you can automatically generate CSS horizontal and vertical menus based on <ul> tags.
+Link fished from ArqHp > Zeldman
+posted by Diego Alberto Eis | September, 21, 2003 | 3 comments
+
+3.More tableless sites!
+I can tell, everybody is rocking all over with tableless sites. Renato Feijó is an example to be followed.
+http://www.danielfrank.ch/
+http://www.eltango.ch/
+posted by Diego Alberto Eis | September, 18, 2003 | 3 comments
+
+4. Brazil's tableless
+Acquire, cute, Michel Bottan's fine work.
+posted by Elcio Luiz Ferreira | September, 13, 2003 | 7 comments
+
+5.iLearn Tableless
+Another nice Tableless site, ladies and gentlemen, and this is a brazilin one! The iLearn, a Rio de Janeiro Technology school, is offering a Tableless course, and enjoying the moment is launching its own site, Tableless, of course. A very nice work!
+
+posted byr Elcio Luiz Ferreira | October, 9, 2003 | comment this!
+
+6. The MotoBiker's Style Switcher
+Diógenes, from Sábado na Estrada, have sent us a great tutorial about styleswitching: Chenging your site layout dinamically.
+
+posted by Elcio Luiz Ferreira | September, 9,  2003 | comment this!
+
+7.Andy Budd
+Today, Andy Budd, from Message Digital Design, worte to me. I got acquainted with his blog. A tableless site, about WebStandards, Very Nice!
+
+posted by Elcio Luiz Ferreira | July, 9,  2003 | 1 comment
+
+8.Jeans Lee
+One more from Mr. Jeffrey Zeldman:
+www.onetruefit.com, XHTML 1.0 tableless for sore eyes. There is also a case study to anyone who may wish to play with..
+posted by Elcio Luiz Ferreira | April, 9, 2003 | 1 comment
+
+9. To the beginners
+Webstandards FAQ, from D. Keith Robinson, very good.
+
+10.Abrafoto
+we're very proud to introduce the latest tableless site on air, by Atípico: Abrafoto.org.
+It's a big site, with a complex actualization system, hit by more than 250 photgraphers, and chunks of content. It was a pleasure and a privilege to work on it.
+
+
+
+
+1.
+México também faz tableless!
+http://www.monolinea.com
+Site tableless e com ótima aparência! Portifólio da mexicana Kemie Quaida.
+postado por Diego Alberto Eis | 23 de Setembro de 2003 | comente!
+Fazer menu CSS automático!
+
+2.
+List - o - matic
+Neste link você pode gerar automáticamente menus CSS horizontais ou verticais baseados em <ul>.
+Link pescado da ArqHp > Zeldman
+postado por Diego Alberto Eis | 21 de Setembro de 2003 | 3 comentários
+Mais sites tableless!
+
+3.
+Estou vendo que o pessoal está botando para quebrar. O Renato Feijó é um que está dando o exemplo.
+http://www.danielfrank.ch/
+http://www.eltango.ch/
+postado por Diego Alberto Eis | 18 de Setembro de 2003 | 3 comentários
+
+4.
+Mais Tableless Nacional
+Acquire, bonito, ótimo trabalho do Michel Bottan.
+postado por Elcio Luiz Ferreira | 13 de Setembro de 2003 | 7 comentários
+iLearn Tableless
+
+5.
+Mais um Tableless bacana, senhoras e senhores, e desta vez nacional! A iLearn, escola de tecnologia
+carioca, está oferecendo um curso de Tableless, e aproveitou o ensejo para lançar seu site
+Tableless. Ótimo trabalho.
+postado por Elcio Luiz Ferreira | 9 de Outubro de 2003 | comente!
+
+6.
+O Style Switcher do Motoqueiro
+O Diógenes, do Sábado na Estrada, mandou pra gente um ótimo tutorial ensinando a construir um style
+switcher: Trocando o Layout de seu Site de Forma Dinâmica.
+postado por Elcio Luiz Ferreira | 9 de Setembro de 2003 | comente!
+
+7.
+Andy Budd
+Hoje o Andy Budd, da Message Digital Design, me escreveu. Foi assim que eu fiquei conhecendo o blog
+dele. Tableless, sobre WebStandards, muito bom!
+postado por Elcio Luiz Ferreira | 9 de Julho de 2003 | 1 comentário
+
+8.
+Jeans Lee
+Mais uma dica do Sr. Zeldman:
+www.onetruefit.com, XHTML 1.0 tableless de encher os olhos. Há também um estudo de caso no ar, pra
+quem quiser conferir.
+postado por Elcio Luiz Ferreira | 9 de Abril de 2003 | 1 comentário
+
+9.
+Pra quem está começando
+Webstandards FAQ, de D. Keith Robinson, muito bom.
+
+10.
+Abrafoto
+É com muito orgulho que anunciamos o mais novo tableless posto no ar pela Atípico: Abrafoto.org.
+Site grande, com um sistema de atualização complexo, acessado por mais de 250 fotógrafos, e um
+bocado de conteúdo, foi um prazer e um grande privilégio trabalhar nele. 

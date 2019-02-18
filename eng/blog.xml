@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- 
+	<mensagem id="">
+		<titulo></titulo>
+		<texto>
+		</texto>
+		<diego />
+		<data>//</data>
+	</mensagem>
+-->
+<blog>
+	<mensagem id="11">
+		<titulo>Hello World!</titulo>
+		<texto>
+			[a href="http://www.tableless.com.br/eng/about.asp" title="About"]We[/a] hope this site can help you a lot, as it does to people over here in [a href="http://www.tableless.com.br/" title="Portuguese Version"]Brazil[/a]![br /]
+			If you find any mistake, please send us an [a href="mailto:tableless@tableless.com.br"]email[/a].[br /]
+			Thank you!
+		</texto>
+		<diego/>
+		<data>13/10/2003</data>
+	</mensagem>
+	<mensagem id="10">
+		<titulo>Mexico also does tableless!</titulo>
+		<texto>
+			[a href="http://www.monolinea.com"]http://www.monolinea.com[/a][br /]
+	Tableless and very good looking site! Kemie Quaida portfolio.
+		</texto>
+		<diego/>
+		<data>23/09/2003</data>
+	</mensagem>
+	<mensagem id="9">
+		<titulo>How to make a CSS automatic menu!</titulo>
+		<texto>
+			[a href="http://www.accessify.com/tools-and-wizards/list-o-matic/list-o-matic.asp"]List - o - matic[/a][br /]
+			In this link you can automatically generate CSS horizontal and vertical menus based on ul tags.
+			Link found in [a href="http://www.topica.com/lists/arqhp"]ArqHp[/a] &gt; [a href="http://www.zeldman.com/"]Zeldman[/a]
+		</texto>
+		<diego/>
+		<data>21/09/2003</data>
+	</mensagem>
+	<mensagem id="8">
+		<titulo>More tableless sites!</titulo>
+		<texto>
+			I can tell, everybody is rocking all over with tableless sites. Renato Feijó is an example to be followed.[br /]
+			[a href="http://www.danielfrank.ch/"]http://www.danielfrank.ch/[/a][br /]
+			[a href="http://www.eltango.ch/"]http://www.eltango.ch/[/a]
+		</texto>
+		<diego/>
+		<data>18/09/2003</data>
+	</mensagem>
+	<mensagem id="7">
+		<titulo>Acquire tableless</titulo>
+		<texto>
+			[a href="http://www.acquire.com.br/"]Acquire[/a], cute, Michel Bottan's fine work.
+		</texto>
+		<diego/>
+		<data>13/09/2003</data>
+	</mensagem>
+	<mensagem id="6">
+		<titulo>iLearn Tableless</titulo>
+		<texto>
+			Another nice Tableless site, ladies and gentlemen, and this is a brazilin one! The [a href="http://www.ilearn.com.br/"]iLearn[/a], a Rio de Janeiro Technology school, is offering a Tableless course, and enjoying the moment is launching its own site, Tableless, of course. A very nice work!
+		</texto>
+		<elcio/>
+		<data>10/09/2003</data>
+	</mensagem>
+	<mensagem id="5">
+		<titulo>The MotoBiker's Style Switcher</titulo>
+		<texto>
+			Diógenes, from [a href="http://www.sabadonaestrada.com.br/"]Sábado na Estrada[/a], have sent us a great tutorial about styleswitching: [a href="http://www.tableless.com.br/eng/switcher.asp"]Changing your site layout dinamically[/a].
+		</texto>
+		<elcio/>
+		<data>09/09/2003</data>
+	</mensagem>
+	<mensagem id="4">
+		<titulo>To the beginners</titulo>
+		<texto>
+			[a href="http://www.7nights.com/dkrprod/gwt_eight.php"]Webstandards FAQ[/a], from D. Keith Robinson, very good.
+		</texto>
+		<elcio/>
+		<data>28/08/2003</data>
+	</mensagem>
+	<mensagem id="3">
+		<titulo>Abrafoto</titulo>
+		<texto>
+			We're very proud to introduce the latest tableless site on air, by Atípico: [a href="http://www.abrafoto.com.br/"]Abrafoto.org[/a].
+			It's a big site, with a complex actualization system, hit by more than 250 photographers, and chunks of content. It was a pleasure and a privilege to work on it.
+		</texto>
+		<diego/>
+		<data>26/08/2003</data>
+	</mensagem>
+	<mensagem id="2">
+		<titulo>Andy Budd</titulo>
+		<texto>
+			Today, Andy Budd, from [a href="http://www.message.uk.com/"]Message Digital Design[/a], wrote to me. I got acquainted with his blog. A tableless site, about WebStandards, Very Nice!
+		</texto>
+		<diego/>
+		<data>09/07/2003</data>
+	</mensagem>
+	<mensagem id="1">
+		<titulo>Jeans Lee</titulo>
+		<texto>
+			One more from Mr. Jeffrey Zeldman:
+			[a href="http://www.onetruefit.com/"]www.onetruefit.com[/a], XHTML 1.0 tableless for sore eyes. There is also a case study to anyone who may wish to play with..
+		</texto>
+		<elcio/>
+		<data>09/04/2003</data>
+	</mensagem>
+</blog>
